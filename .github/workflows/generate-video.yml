@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 240
 
     env:
-      PRIVATE_REPO: "colfleshjadein2404997-oss/TIM-SO-KHAC"
+      PRIVATE_REPO: "truonghieuman19-hub/tim-so-khac"
       PRIVATE_REF: "main"
       PUBLIC_REF: "main"
       PYTHONUNBUFFERED: "1"
@@ -28,7 +28,7 @@ jobs:
       # Điều khiển thứ tự run / tiêu đề.
       # Run có số SEQ_BASE_RUN được tính là sequence 0.
       # TITLE_START là số dòng (bắt đầu từ 1) trong tieude.txt dùng cho sequence 0.
-      SEQ_BASE_RUN: "2"
+      SEQ_BASE_RUN: "1"
       TITLE_START: "1"
 
       QUIZ_WIDTH: "1920"
@@ -42,7 +42,7 @@ jobs:
       QUIZ_THUMB_HISTORY_FILE: "../control/thumb_history.json"
       QUIZ_AUDIENCE_HISTORY_FILE: "../control/audience_learning.json"
 
-      YT_PRIVACY_STATUS: "private"
+      YT_PRIVACY_STATUS: "public"
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
