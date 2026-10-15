@@ -19,6 +19,7 @@
     "cc7b120d0d317421b6f5dcf0",
     "d19135a71fa2c210d813d6d2",
     "df6a93f7f5155a7ba0fd96da",
+    "ea89ad6feab94283382b9c1c",
     "f024c388b714f6c22cee1991",
     "ffacb5f6392f3fbfbef71751"
   ],
@@ -33,6 +34,7 @@
     "3550640325be31334bac",
     "70969b7030e555d491cf",
     "955318c2b8455159a7e4",
+    "a36308f26380b7518583",
     "afe88e8095e07d033529",
     "b9f0fdbb85d090c35598",
     "bab983999010e2fe683d",
@@ -309,6 +311,20 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_score": 0.4244
+    },
+    {
+      "signature": "ea89ad6feab94283382b9c1c",
+      "video_sequence": 16,
+      "puzzle_signature": "863870be567c667b11afb3e4",
+      "grammar": "freeform",
+      "mutation": "adjacent_swap+mirror_break",
+      "layout": 5,
+      "headline": 4,
+      "score": 0.36702,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_score": 0.42077
     }
   ],
   "used_palettes": [
@@ -691,6 +707,26 @@
         43
       ],
       "novelty": 0.11795
+    },
+    {
+      "signature": "a36308f26380b7518583",
+      "video_sequence": 16,
+      "bg1": [
+        22,
+        198,
+        224
+      ],
+      "bg2": [
+        76,
+        62,
+        176
+      ],
+      "accent": [
+        250,
+        105,
+        70
+      ],
+      "novelty": 0.09665
     }
   ],
   "recent_profiles": [
@@ -807,15 +843,21 @@
       "layout": 2,
       "headline": 1,
       "palette_signature": "b9f0fdbb85d090c35598"
+    },
+    {
+      "video_sequence": 16,
+      "layout": 5,
+      "headline": 4,
+      "palette_signature": "a36308f26380b7518583"
     }
   ],
-  "last_video_sequence": 15,
-  "total_unique_thumbnails": 19,
+  "last_video_sequence": 16,
+  "total_unique_thumbnails": 20,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 15,
+    "tracked_videos": 16,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
