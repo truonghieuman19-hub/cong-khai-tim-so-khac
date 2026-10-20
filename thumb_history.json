@@ -7,6 +7,7 @@
     "1327fe9d9b395bed1c0156fd",
     "23f4a5d9fc129fdf3fb7f815",
     "256b1cc42810c2eb8a954572",
+    "3190f5a669a44015b2f082f5",
     "31fea30311a45db09cf466c6",
     "3b82208a80df137cc916adcb",
     "40275fa67f1675dfad428a93",
@@ -51,6 +52,7 @@
     "dc2f540f67331c665a3d",
     "e02ed3d04178985b232b",
     "e0e17badff9cffaab067",
+    "eeccafb2d666b918eed0",
     "f2a9c350f71c93195ad0"
   ],
   "used_thumbnails": [
@@ -389,6 +391,20 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_score": 0.40786
+    },
+    {
+      "signature": "3190f5a669a44015b2f082f5",
+      "video_sequence": 21,
+      "puzzle_signature": "727abc749d8a6e03cda33ad4",
+      "grammar": "sandwich",
+      "mutation": "double_substitute",
+      "layout": 3,
+      "headline": 4,
+      "score": 0.34873,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_score": 0.40472
     }
   ],
   "used_palettes": [
@@ -871,6 +887,26 @@
         244
       ],
       "novelty": 0.08974
+    },
+    {
+      "signature": "eeccafb2d666b918eed0",
+      "video_sequence": 21,
+      "bg1": [
+        92,
+        71,
+        236
+      ],
+      "bg2": [
+        216,
+        31,
+        90
+      ],
+      "accent": [
+        234,
+        250,
+        49
+      ],
+      "novelty": 0.09359
     }
   ],
   "recent_profiles": [
@@ -1017,15 +1053,21 @@
       "layout": 0,
       "headline": 0,
       "palette_signature": "8c40ae063e50c2dd2f4d"
+    },
+    {
+      "video_sequence": 21,
+      "layout": 3,
+      "headline": 4,
+      "palette_signature": "eeccafb2d666b918eed0"
     }
   ],
-  "last_video_sequence": 20,
-  "total_unique_thumbnails": 24,
+  "last_video_sequence": 21,
+  "total_unique_thumbnails": 25,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 20,
+    "tracked_videos": 21,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
