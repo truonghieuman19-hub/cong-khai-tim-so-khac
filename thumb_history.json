@@ -23,6 +23,7 @@
     "cc7b120d0d317421b6f5dcf0",
     "d19135a71fa2c210d813d6d2",
     "df6a93f7f5155a7ba0fd96da",
+    "e1ae5355d196b8924420b840",
     "ea89ad6feab94283382b9c1c",
     "f024c388b714f6c22cee1991",
     "f953525905ff8f957189143d",
@@ -42,6 +43,7 @@
     "70969b7030e555d491cf",
     "8c40ae063e50c2dd2f4d",
     "955318c2b8455159a7e4",
+    "a2655639388f5c8d2694",
     "a36308f26380b7518583",
     "afe88e8095e07d033529",
     "b9f0fdbb85d090c35598",
@@ -405,6 +407,20 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_score": 0.40472
+    },
+    {
+      "signature": "e1ae5355d196b8924420b840",
+      "video_sequence": 22,
+      "puzzle_signature": "7fbfd6814e202ea556c80fcc",
+      "grammar": "sandwich",
+      "mutation": "mirror_break+mirror_break+mirror_break",
+      "layout": 4,
+      "headline": 2,
+      "score": 0.34493,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_score": 0.40138
     }
   ],
   "used_palettes": [
@@ -907,6 +923,26 @@
         49
       ],
       "novelty": 0.09359
+    },
+    {
+      "signature": "a2655639388f5c8d2694",
+      "video_sequence": 22,
+      "bg1": [
+        233,
+        30,
+        247
+      ],
+      "bg2": [
+        179,
+        84,
+        22
+      ],
+      "accent": [
+        79,
+        250,
+        65
+      ],
+      "novelty": 0.08959
     }
   ],
   "recent_profiles": [
@@ -1059,15 +1095,21 @@
       "layout": 3,
       "headline": 4,
       "palette_signature": "eeccafb2d666b918eed0"
+    },
+    {
+      "video_sequence": 22,
+      "layout": 4,
+      "headline": 2,
+      "palette_signature": "a2655639388f5c8d2694"
     }
   ],
-  "last_video_sequence": 21,
-  "total_unique_thumbnails": 25,
+  "last_video_sequence": 22,
+  "total_unique_thumbnails": 26,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 21,
+    "tracked_videos": 22,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
