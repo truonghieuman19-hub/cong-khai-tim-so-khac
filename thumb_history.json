@@ -38,6 +38,7 @@
     "e1ae5355d196b8924420b840",
     "ea89ad6feab94283382b9c1c",
     "f024c388b714f6c22cee1991",
+    "f4193bf8e47d85e576186c60",
     "f953525905ff8f957189143d",
     "ffacb5f6392f3fbfbef71751"
   ],
@@ -53,6 +54,7 @@
     "33b5ec1163b7a6ae80ae",
     "3550640325be31334bac",
     "3c0db223bdd7f66d0a73",
+    "466726f084870c34bad4",
     "4884fc85420316dec7b8",
     "580b83081e4cf433e2db",
     "631da96bc0727fc2894d",
@@ -613,6 +615,20 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_score": 0.37641
+    },
+    {
+      "signature": "f4193bf8e47d85e576186c60",
+      "video_sequence": 35,
+      "puzzle_signature": "75060fca6c8f6621805fe99a",
+      "grammar": "wave",
+      "mutation": "double_substitute",
+      "layout": 4,
+      "headline": 1,
+      "score": 0.31318,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_score": 0.37351
     }
   ],
   "used_palettes": [
@@ -1375,6 +1391,26 @@
         48
       ],
       "novelty": 0.07703
+    },
+    {
+      "signature": "466726f084870c34bad4",
+      "video_sequence": 35,
+      "bg1": [
+        29,
+        247,
+        56
+      ],
+      "bg2": [
+        24,
+        138,
+        178
+      ],
+      "accent": [
+        242,
+        31,
+        208
+      ],
+      "novelty": 0.08124
     }
   ],
   "recent_profiles": [
@@ -1605,15 +1641,21 @@
       "layout": 5,
       "headline": 3,
       "palette_signature": "4884fc85420316dec7b8"
+    },
+    {
+      "video_sequence": 35,
+      "layout": 4,
+      "headline": 1,
+      "palette_signature": "466726f084870c34bad4"
     }
   ],
-  "last_video_sequence": 34,
-  "total_unique_thumbnails": 38,
+  "last_video_sequence": 35,
+  "total_unique_thumbnails": 39,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 34,
+    "tracked_videos": 35,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
