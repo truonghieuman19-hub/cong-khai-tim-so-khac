@@ -5,6 +5,7 @@
     "05af6e43a37ea345ff1b3a10",
     "09aef28e42a745c89e827fec",
     "0df5b949fa3440e041903f05",
+    "11c61563998ca1b2af206099",
     "1327fe9d9b395bed1c0156fd",
     "218bd9cad208523ccb795bb7",
     "23e943d88175d5070ad6a3ce",
@@ -54,6 +55,7 @@
     "33b5ec1163b7a6ae80ae",
     "3550640325be31334bac",
     "3c0db223bdd7f66d0a73",
+    "419cf80c87b91c6cb3e7",
     "466726f084870c34bad4",
     "4884fc85420316dec7b8",
     "580b83081e4cf433e2db",
@@ -629,6 +631,20 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_score": 0.37351
+    },
+    {
+      "signature": "11c61563998ca1b2af206099",
+      "video_sequence": 36,
+      "puzzle_signature": "d9bf7625aeef253bb5d91ca7",
+      "grammar": "repeated_run",
+      "mutation": "double_substitute",
+      "layout": 1,
+      "headline": 2,
+      "score": 0.31705,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_score": 0.37691
     }
   ],
   "used_palettes": [
@@ -1411,6 +1427,26 @@
         208
       ],
       "novelty": 0.08124
+    },
+    {
+      "signature": "419cf80c87b91c6cb3e7",
+      "video_sequence": 36,
+      "bg1": [
+        74,
+        170,
+        246
+      ],
+      "bg2": [
+        77,
+        25,
+        206
+      ],
+      "accent": [
+        233,
+        120,
+        27
+      ],
+      "novelty": 0.09327
     }
   ],
   "recent_profiles": [
@@ -1647,15 +1683,21 @@
       "layout": 4,
       "headline": 1,
       "palette_signature": "466726f084870c34bad4"
+    },
+    {
+      "video_sequence": 36,
+      "layout": 1,
+      "headline": 2,
+      "palette_signature": "419cf80c87b91c6cb3e7"
     }
   ],
-  "last_video_sequence": 35,
-  "total_unique_thumbnails": 39,
+  "last_video_sequence": 36,
+  "total_unique_thumbnails": 40,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 35,
+    "tracked_videos": 36,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
