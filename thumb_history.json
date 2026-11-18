@@ -35,6 +35,7 @@
     "6c4fa0764c07cf8b60b601a6",
     "6fb1f505c2befca97432b6d2",
     "707486f3d1ec741e855c626c",
+    "729a91d4b361d908ca8828f3",
     "76327018f0b62352c4dac786",
     "7fc987dc2de2e2476a925b5b",
     "8695d8914594ed45ac4e9200",
@@ -95,6 +96,7 @@
     "af914943e6a5d7bef1f8",
     "afe88e8095e07d033529",
     "b9f0fdbb85d090c35598",
+    "b9fb86eab5a7b5f9fbb6",
     "bab983999010e2fe683d",
     "c4fc41546bb754d62acd",
     "c6ba13594e7577e550d4",
@@ -853,6 +855,20 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_score": 0.35515
+    },
+    {
+      "signature": "729a91d4b361d908ca8828f3",
+      "video_sequence": 50,
+      "puzzle_signature": "0c23879fe51fc189e9a223f6",
+      "grammar": "meta:sandwich+palindrome:nested",
+      "mutation": "confusable_substitute",
+      "layout": 0,
+      "headline": 0,
+      "score": 0.2907,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_score": 0.35378
     }
   ],
   "used_palettes": [
@@ -1915,15 +1931,29 @@
         236
       ],
       "novelty": 0.06654
+    },
+    {
+      "signature": "b9fb86eab5a7b5f9fbb6",
+      "video_sequence": 50,
+      "bg1": [
+        198,
+        46,
+        226
+      ],
+      "bg2": [
+        222,
+        83,
+        88
+      ],
+      "accent": [
+        54,
+        233,
+        24
+      ],
+      "novelty": 0.06344
     }
   ],
   "recent_profiles": [
-    {
-      "video_sequence": 0,
-      "layout": 4,
-      "headline": 1,
-      "palette_signature": "267650e1a39f8ac9a7a4"
-    },
     {
       "video_sequence": 1,
       "layout": 5,
@@ -2217,15 +2247,21 @@
       "layout": 3,
       "headline": 3,
       "palette_signature": "a14cc9dc2f0e754210fd"
+    },
+    {
+      "video_sequence": 50,
+      "layout": 0,
+      "headline": 0,
+      "palette_signature": "b9fb86eab5a7b5f9fbb6"
     }
   ],
-  "last_video_sequence": 49,
-  "total_unique_thumbnails": 53,
+  "last_video_sequence": 50,
+  "total_unique_thumbnails": 54,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 49,
+    "tracked_videos": 50,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
