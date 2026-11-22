@@ -90,6 +90,7 @@
     "09f1fe76f47d74e9e9943da9",
     "0a0ed0e81c465d3131d04e90",
     "0a44368e8a31fbcca19d4cd2",
+    "0a68b0c7752760bf105a9122",
     "0a707396980d5a5622dba5de",
     "0a8a2eeae8aae347a8155cc8",
     "0aa742966ebfa703e6419d88",
@@ -107,6 +108,7 @@
     "0ba67e66627757ce774e8e34",
     "0bc632ac654548b794f151bb",
     "0bcaea229e34a9bccf06d71e",
+    "0bda8ad63a1807c12511fe77",
     "0be6da18b1855d111e5b14d3",
     "0bfc0dd9dcba2b7c5c18857c",
     "0c0a6199e1a8b4a6f2e3f9ec",
@@ -152,6 +154,7 @@
     "10089abd3e25465f419d41ce",
     "100b70fd18b142217b9d8587",
     "101d7bac5c7b9fde3914345c",
+    "1024d1c911c503ade615479c",
     "10505077ea2923b4e55f6e15",
     "107e50f0759322287472538c",
     "108c94fa889129b9d10b746b",
@@ -216,6 +219,7 @@
     "19565b8bbb13133c9e56c39d",
     "195e1c0cc99333b8f9e5116d",
     "19b6ba629b749875bf51ee1e",
+    "19e1997aa2b742eb953d71de",
     "19e7d9366c1d808f383ed79f",
     "1a0cf7573baa58ae6ba8ac4a",
     "1a21fd5857391a58f30a78fc",
@@ -275,6 +279,7 @@
     "2009e7ab599a1555b43e1cee",
     "200a482a4b1530f04992cc60",
     "200bdb0ff303dc391283f0c4",
+    "202068f5561e6e6f921de4eb",
     "2081185421d0241b38dfea11",
     "209437bc9809e754bb9cff00",
     "20aa3d2a492b6d57ff78625c",
@@ -291,6 +296,7 @@
     "2149329bc349755f84445337",
     "21a24eff5dd06daea004e555",
     "21b0cb08d87bb812eed99d7a",
+    "21b5180807c2897afc5b27fe",
     "21bce75fce65e2326ef79a5b",
     "21be5215b9997d92d47a5b43",
     "21d2b85d4a3ac7e251bbdc7c",
@@ -330,6 +336,7 @@
     "24ae7c39f64e63d6a5b9fcb1",
     "24bd006b9124f15aab1acbf9",
     "24c8898c0b9828aab11aa895",
+    "250e40f5edf68bc7f4245ef9",
     "253ca0ccda20eee0491c5526",
     "25438b10226c6a8cd94d11e4",
     "25661da3246696754156a54b",
@@ -426,6 +433,7 @@
     "2ece1cacb231a83c0410dd0e",
     "2ed07bb312b69fb59266974f",
     "2edcf99e8f9984541518eea8",
+    "2eec8c56a93c8ea0403f056f",
     "2ef7da7d455b118c9c9b2837",
     "2f8254215cf2f7e0e25dd0f0",
     "2f851dca01da8c64f4f9e6d4",
@@ -658,6 +666,7 @@
     "4b9e0a2b64c01f41499af2d0",
     "4b9eaceffc01e6712b72e91a",
     "4baf9172c6b734bb048c31f8",
+    "4bba7f7971bcbbcb1298dc7c",
     "4bf12e846ac14fd062f8ff1b",
     "4bf48f11111ffd5369c28ebd",
     "4c2640e9ecf32f838ff9440f",
@@ -686,11 +695,13 @@
     "4edeacb3fd43878e0696fd46",
     "4ee70f4469f17443b8d8970c",
     "4f02557c360fbdacba1ecc68",
+    "4f1b4fab6918ce85ebe8e34f",
     "4f253fb60a738f4f47c90c5b",
     "4f2e3aef49d1f8249901bfd5",
     "4f31d92d4b1b8d0f10d2dec0",
     "4f54b51f42cfdd5a82c30e3e",
     "4f5a9115aaefa4ae09ec6a38",
+    "4f5fe1b253ca1eba810cb227",
     "4f72a730eba0b5ff556c1063",
     "4f73494837b12dda5c52c190",
     "4f7fa56e211bd14633cc2bdf",
@@ -802,6 +813,7 @@
     "5c6d8dc4480c747a61258066",
     "5cac8e548a3801573797bf24",
     "5cd020746fd4fa39911894e2",
+    "5cdb61299a55bed043c68d0c",
     "5ce1626d5719859d20a5990c",
     "5d03e887d898ba15cc7cafb1",
     "5d97c7f7900f761bcd9f723a",
@@ -819,6 +831,7 @@
     "5e7701783758546762c7fda1",
     "5e7f62d62f4cd72b9c0b0dc5",
     "5ea40ddcea8f7dab29972ccb",
+    "5eb8a063cc4d3e155072cdc8",
     "5ec5d75e370c376188aa73ad",
     "5f01db957a95fc5931976272",
     "5f170465058f266d8795ff40",
@@ -921,11 +934,13 @@
     "6752ffd04ac5175551f5bfee",
     "675c406c5abae1724642e423",
     "676a650b9327f663f8d66d79",
+    "67732c94769894580e5d21c5",
     "6784242f876ca76a0197f0e7",
     "678491bfbf0e736817acf95d",
     "6784b73db968f65fd8049611",
     "678dd29106f406c8245aa3b6",
     "6799a83089ef71f862b10c80",
+    "679fa718ce9b33bea72acb7d",
     "67bb0c0b55c61d0aea9b79c2",
     "67c42eb53c7d2220e12647cb",
     "67e6ee81379e5d0722b072b6",
@@ -942,8 +957,10 @@
     "691d34d787819ad4962a3a35",
     "696f5c090ab3d56067582f2b",
     "697faf5daaac5986c38982ae",
+    "69993a673788c5b78b325731",
     "699efdef47c559e47b28d3d1",
     "69ef8fb5a8abdf8c3f1870ee",
+    "6a00fcde03dd42cac80677ac",
     "6a076dfecc32774e31f5a007",
     "6a15d7bc8a3d087e71ee358b",
     "6a2ac20cbb7ed61506bba356",
@@ -1011,6 +1028,7 @@
     "72185de6c3199cae8f1339cf",
     "721bfd4f38d30eaeb2120ce1",
     "721f2b2f2fbab57d8ea536e9",
+    "722689aff888c1e74777af58",
     "723e22e21adbfbcf5864fa15",
     "7271d18bee584d1c0216ad7e",
     "727abc749d8a6e03cda33ad4",
@@ -1033,6 +1051,7 @@
     "74bfcc1407d57996b82b2728",
     "74f006fbf7ce3a6acc1d03f0",
     "75060fca6c8f6621805fe99a",
+    "75219845bc4ebe115e403a1b",
     "7523d8d77fe34b581cbc41c7",
     "752b242ae6598d0b47c52995",
     "756fda60118b25b79b883fc9",
@@ -1079,6 +1098,7 @@
     "790b61f092d7db8d738657b9",
     "7920366da470a4c44f1fc005",
     "795088ccc5f4dc467282b6cc",
+    "7961e35c5f8c1d63cd384a94",
     "79717abcd04523ae1a85757a",
     "79942dbb9e632a79b3b8a51a",
     "79bb37dfadd2b916c9041fe8",
@@ -1099,6 +1119,7 @@
     "7bede96b2eb018439c64c9ed",
     "7bf029c543bca2f5246f9ee7",
     "7c2af00e0de3f1ac31dd433f",
+    "7c699f0cff33ecaec634f7ce",
     "7c9e4fffeadc2d3dc746060b",
     "7cac9019befe72e211bd1b8c",
     "7cb050e4b41e0b800c493c0d",
@@ -1177,6 +1198,7 @@
     "848e582c109660d9c80ae088",
     "84976ec57050167ed4200b5f",
     "84c082ab2956088d6f8bfdad",
+    "84e822e15cc4014c559eaecb",
     "85060dbf6bc76ebc4b09db82",
     "85284c181d48ccbe109a365b",
     "854c991cc645ec94269ce47e",
@@ -1339,6 +1361,7 @@
     "9642a2e6e70a0d0cf1be87a5",
     "966950e761cb793aceda8252",
     "96801228b8a13cfee344e624",
+    "968967fdbad1c7178f4405bd",
     "96b788c4920244783e686731",
     "971b8b37ef512d5a40ffa64a",
     "9797bd5f159514183244967c",
@@ -1350,6 +1373,7 @@
     "983da1416e9050e562a87eee",
     "98430aac2da5112190c2ebd5",
     "9846a89a9a2551a49671d3bb",
+    "9850a695ef882e53c35f73f9",
     "988197e2eb9767bdf1046d4d",
     "9893fd6d646ce2c15a9ffab4",
     "98a991d3a35eca2ac197b9c4",
@@ -1363,6 +1387,7 @@
     "99bab0281c58e5eaec0f1af3",
     "99dacce12b3db49d62d5a056",
     "99dd3761f34f3baf535e349c",
+    "99ee4562f019aadde7a48d9e",
     "9a4399d199855240ea9ec2b6",
     "9a76e51036e3ed1a0c0d4f9d",
     "9a8f7e6a3d1523aa774a9830",
@@ -1573,12 +1598,14 @@
     "b0931f4b0cd537ecb9d3235f",
     "b0950b752e5dc2ef6d867796",
     "b095e6caf17b772d2b250909",
+    "b0db628c0fc76b977795b20e",
     "b102430da48d2194c3386016",
     "b1192fcb2ea14924470789da",
     "b11f909a8fb86955f9932655",
     "b11ffa9fb0836cd3d1345700",
     "b14105c186c34a7ef30c9c27",
     "b16aba369738f283d7b58e9a",
+    "b19d952fc4365289fc1d82cd",
     "b1a422db50b44884261a9d72",
     "b1fc55e3f951018e7f2181a7",
     "b200eb2aa8668d0a85d29696",
@@ -1612,6 +1639,7 @@
     "b48fa0cbd0f2e3373c9ab913",
     "b4c93d64257898f9ce53fa1b",
     "b4e6a3b978137ed131ce2255",
+    "b50b8217d6bc01c55b386ff0",
     "b5179c7f1c2e834ff1baf7af",
     "b528c4b1f068873147013bef",
     "b543788e4be67155d6fdc425",
@@ -1681,6 +1709,7 @@
     "bb5397ad12507c37928c5551",
     "bb874cfb65c9347bfdb925aa",
     "bbaab8a4f66799f5d4af9047",
+    "bbc96108e158ea345f339a67",
     "bbd9bb18703fd82a1340a5c7",
     "bc08647118f1d6bc1f2a9c30",
     "bc09cb9c6d07b6cfbc78bff7",
@@ -1715,6 +1744,7 @@
     "bea9c758686104a20d4881c2",
     "bebe63264d6683b82770a32d",
     "bec94a441c9d7d8640d2b81a",
+    "beca9fd48dd5974392219e1e",
     "bedaac7137e880def01f31b6",
     "bede584925ca54c3820125f7",
     "bf14743f6d8b5d2921a2114e",
@@ -1759,6 +1789,7 @@
     "c42a6a777d08e322e424ebfe",
     "c43905d1f7eee9b1588807c0",
     "c44a2b79af10508b811e5c3a",
+    "c454d3699813317bfaebba6f",
     "c46de40c2c234cb2fdf0251d",
     "c4733e140241519d7d09e8a5",
     "c48b9ed0f90dae6220f82a88",
@@ -1810,7 +1841,9 @@
     "ca4099dc35e6274328c0768c",
     "ca57d79feac234e43a74b2f2",
     "ca612e48dbe4b29e41e0b42b",
+    "cac628d30966b9ec9b3962e3",
     "cae1647e6b355dfa797542b6",
+    "caf9c37cd75097a44a99fd36",
     "cb253442439a3668c4bb1a8d",
     "cb2ec4f606d52a74604af1ec",
     "cb3e5dd5d034a20ee404b59b",
@@ -1984,6 +2017,7 @@
     "de18268e1543d47a0339e3c0",
     "de3005b692bcab1fb2604c8f",
     "de3598108b3fc83595ff0c36",
+    "de3bfef864cad0e55ce08966",
     "de6a677b99664d58f7b82f6a",
     "de6c0e83efe665ea86bb1e1d",
     "de7cbec93ae4a377468000ce",
@@ -2026,6 +2060,7 @@
     "e2cb3b126988a9005532adb9",
     "e2f08566adb62fc2bf3bba2e",
     "e3581d5ac27e12334ac510da",
+    "e38e519605dd3e01f27a6df1",
     "e39306520f7d0dcd348cf4e7",
     "e39ef3e3dd1f744e6da85c30",
     "e3a5ad9a5fbbaae7597b8acc",
@@ -2068,6 +2103,7 @@
     "e798bf91780ca891d10c29cc",
     "e7b874a27b3071690af033d5",
     "e7e70facc55e977f21a2fb43",
+    "e81370743acfe6076674d9c4",
     "e83939bc6ed3f78f7b8dd518",
     "e84bd26eaed5e145e422624e",
     "e87f4aa5fe9ce01b01e8ac66",
@@ -2111,6 +2147,7 @@
     "ec218d7906ecd8220fa101ee",
     "ec2d5304092a3c17eae45569",
     "ec2e507dbaaea0f0912709d5",
+    "ec3875658c202f0d0c7dc0b7",
     "ec5707e2dcfe7fcd48e9698a",
     "ec639127cea55f0af5eff8d0",
     "ec78d7e482f24b6d24755456",
@@ -2142,6 +2179,7 @@
     "eec9fd396b64081aa5f4e4d9",
     "eee26902930c6ab40c5d1332",
     "ef0891ffc5d1b32d5d849a67",
+    "ef3400bb9eebdaa09634d243",
     "ef4f94589a41cded26a64c32",
     "ef5cc6bb8d0498c3b8d1b0eb",
     "ef5cc8c52a3835cec33ce337",
@@ -2210,6 +2248,7 @@
     "f69d7c2a340d7feddbd942b6",
     "f6acba01efcfffa91b424f33",
     "f6b9d2384c5767cf818215b2",
+    "f6e616d7b403021062964f9a",
     "f6ec895718fadccd6a5d781b",
     "f701ceed9b3d9c4408a83971",
     "f748d0220ad7370edde99a8d",
@@ -2253,6 +2292,7 @@
     "fc9e7d590f699a4b32e61747",
     "fcb253ce808dc1bcec8e20a9",
     "fcba1f8e8cf4993d6425a28a",
+    "fcc44ac00e29393a0c60bc4a",
     "fccc0310afd1d8ec1072de1c",
     "fcfb540a23af2a7af98b4ce9",
     "fd0cbd42927b9e8559a865ec",
@@ -2299,6 +2339,7 @@
     "02763fd11ea161627dc1",
     "0284c7f5e9679d0e0466",
     "028bcdf25b56179f39a5",
+    "029f42eb171800575b86",
     "02e3fd47fbda6d41000e",
     "02f8b0a672a2bf0ca3ee",
     "030c1f27a28f8dc5be75",
@@ -2306,6 +2347,7 @@
     "03aebb17a188cbe02888",
     "03cbcd300c2c6be6cb66",
     "0405e3c0cd34b4ec6206",
+    "040e9c982d768813b575",
     "0414356edcbf19599a70",
     "041ae663d37912cca45c",
     "045515ebaa839c085004",
@@ -2346,6 +2388,8 @@
     "08cd0a044a92f916b7f2",
     "08e6623518c54db46a9c",
     "08f29b628eadf504a585",
+    "09481714b2b731b38772",
+    "098344dc5686a68c0088",
     "09908485af7a9f75dd12",
     "099337c7047d50f46128",
     "09ee039115880d93785f",
@@ -2374,6 +2418,7 @@
     "0b8fe3ff8a1e63274ca6",
     "0bc2b1ce07c17a23b3d1",
     "0be39bbd830f15c826de",
+    "0c1829c28e4578275f7d",
     "0c1be43e6311a8430acd",
     "0c7749d526acb5146072",
     "0cb06cf6f9a0bc55f5e8",
@@ -2421,6 +2466,7 @@
     "11941a29c8d8f37ab61e",
     "11b9a6d5dc152d012632",
     "11bf10e63a9aaa2e8ddb",
+    "11c0eeee8977039a5847",
     "11c714871957d3f329ef",
     "11c89b5201e6b792d792",
     "122c0bc8a5dd955eb789",
@@ -2452,9 +2498,11 @@
     "15411e24a121b5903b48",
     "155ec4331c6fee414da4",
     "157911b3be94d30c6c38",
+    "158c3ef0ea377d4ed806",
     "1596738f06fe3b0d5d5f",
     "15acbecf6182bebffd47",
     "15bb52bb19bd63bff4d1",
+    "15d19225d1059cb7cb25",
     "15e0c991c323c00b6dc8",
     "15e5ca9e2fd8a49ae72d",
     "15fbae2360ede83f995a",
@@ -2480,6 +2528,7 @@
     "18f200ebb9bba17acbee",
     "1915afbf291167c298da",
     "1915cb95ff4bf122f0bf",
+    "192c766446a541d57950",
     "19464518b6626e163312",
     "194d87839a41f66a7d31",
     "1955d42acc24bf156ecb",
@@ -2516,10 +2565,12 @@
     "1d25d3d3d8cd1da11fc1",
     "1d47e4cba2a136b48248",
     "1d60d2f990f5d7dd97b6",
+    "1d6e27542456a038d3ea",
     "1d74c72ba0bebc3a11c7",
     "1dbab535fb47de6973a7",
     "1dbbf8174dec837a03ea",
     "1dcc56cc913bdc0985a4",
+    "1e11c3d6d5b914e3747c",
     "1e4f32f0809db9ec40b0",
     "1e5077e22a7a2d3bbba9",
     "1e80a601932f948267f2",
@@ -2694,6 +2745,7 @@
     "31b40ca9d032687bfc5f",
     "31b7448ef3fabf85c87c",
     "31d9a09d9aaae864ffbc",
+    "3214987258b4f8812afd",
     "32590aeec3635de0ab70",
     "32b3eba7721bb6dd3632",
     "32bbb8f17cd5c166795d",
@@ -2782,6 +2834,7 @@
     "3af5e4239df4cb50ddee",
     "3aff50f2bcf149e36204",
     "3b13e4a698a99a775c5a",
+    "3b36e51c3dbfd9a5cdfc",
     "3b67fe1cae7f9615a867",
     "3b84f88fa2493089e878",
     "3b9c0c51afd4ce7d9a40",
@@ -2797,9 +2850,11 @@
     "3cd719d626214d0c0416",
     "3cf9a1bc04a294102da2",
     "3d544582879d30bb2fa2",
+    "3d7269c295219225acec",
     "3d74932c02caf04bf642",
     "3d82492f7d17891e4de9",
     "3dc2ad54b854c6255ffb",
+    "3dc90735d07531f3192a",
     "3dec2b0a73f4e2b65254",
     "3e01b8a5852ac006b300",
     "3e1367cec16126c34d30",
@@ -2817,6 +2872,7 @@
     "3ff937bbe19fc595a11a",
     "3ffa90146147399a5fd5",
     "400bd2d3c42c48020286",
+    "4016a4244da024e1f3b0",
     "4025e5947ef520a95693",
     "4027927fc16120a6fcb8",
     "4047b3146207cfb28252",
@@ -2989,6 +3045,7 @@
     "54e172c583067b515b45",
     "552ab1020bcc0387416d",
     "5562236e7cc8fab3c5c2",
+    "559a66d1a5eeffbe9c28",
     "55d4799b8b40d6cb8567",
     "55f92b88f1912e64f139",
     "55ff3f41741f45cc7323",
@@ -3099,6 +3156,7 @@
     "6153c16806a95baa20bb",
     "617a1d4fc74a58febb28",
     "618ba4866755d7bbef67",
+    "61ee5ccb1994aef02caf",
     "61fed6fed0f9ee727de3",
     "62112eff3b7294534fce",
     "62207c64eb1389423d19",
@@ -3107,6 +3165,7 @@
     "625fc905a7447a1b6d4e",
     "627a42330349f8925307",
     "629c97fed9800824503b",
+    "62a18c6a1d927f0a0e2c",
     "62ac33a66c95d8e9c186",
     "62be10eb7e8a5a12d5a8",
     "62cd16fabeba37c2c78f",
@@ -3188,6 +3247,7 @@
     "6be8681c8bd0be631f7d",
     "6c49e98de8b7ce51095a",
     "6c5e0a374e508afe79f4",
+    "6c63cd03906e7e4af1da",
     "6c660361a621829eaaf7",
     "6c6fb4131bef26fee1a0",
     "6ca4473c0415bafacf02",
@@ -3282,6 +3342,7 @@
     "76a0e7fab9c3db1bc4cb",
     "76e6695a94abde6abe56",
     "76ef52f6fd840f842546",
+    "7703b236a6c6cfcf1366",
     "772bfb75ea6d38c9d05c",
     "773af2608e051a86a518",
     "774e7fcd2d23c7419e12",
@@ -3353,6 +3414,7 @@
     "7df89bc5288182dff672",
     "7e08dca7bdc4bac65de6",
     "7e2886755fa6918555dd",
+    "7e954dab1b09505c6507",
     "7f1a6d44ba3280749e63",
     "7f3e660bf05db5bfe53a",
     "7f4145c918674cb6ede7",
@@ -3460,6 +3522,7 @@
     "8a0cc4a708c1f382ccd8",
     "8a1a6748e44bcf49e535",
     "8a42c9120e01586a6e22",
+    "8a486fb5a239157f6f95",
     "8a4cf1f72282623499d8",
     "8a8b91b09be285489ce5",
     "8ab6704e4e7eb6bc4008",
@@ -3698,6 +3761,7 @@
     "a3ae5a1206aa8db735d2",
     "a3c0e726054896f583af",
     "a3d0166ca65fe2fde3da",
+    "a3dc317ac69e540c94bd",
     "a3e336da97c5e6d03163",
     "a3eaba2867462d7663ce",
     "a4089291789f23c97dd9",
@@ -3719,6 +3783,7 @@
     "a587fcdc87a6be225613",
     "a597e90d20503b77d6d7",
     "a5add0adddffea1469bc",
+    "a5fb01796f2bd0dd69ac",
     "a61c3bcbeec1d2a74bad",
     "a685f831e69cc5624e43",
     "a68c98ddc1cd48709d11",
@@ -3753,6 +3818,7 @@
     "a9302b2224d5e2c6544b",
     "a977e4719a37a7d03868",
     "a9b3c6a1e74a5322e411",
+    "aa049b0d3a5da75c9b9d",
     "aa3187e06d9bfa6bb095",
     "aa50a11dc5135f7a11ad",
     "aa51b6b834cff12b2f7b",
@@ -3838,6 +3904,7 @@
     "b301774de4938438ddb5",
     "b30b4729a63b581aec17",
     "b32f9fc58eb3ec24d21c",
+    "b33d3457f9b73b61c18e",
     "b3404850729947706c29",
     "b356c15be05b10f64e0f",
     "b3916c5c0ba573c49bbd",
@@ -3855,6 +3922,7 @@
     "b414f846de8f7e75fab5",
     "b4209b0d61214a8636bc",
     "b43b671ad360f9e7db3c",
+    "b43bce29068be9107734",
     "b44ba34d708fe66211dc",
     "b46fdf9f6170113f6035",
     "b487e1c258b433303867",
@@ -3886,12 +3954,14 @@
     "b73f67af37cf2eb4015a",
     "b7685f1d31dc4d0dec24",
     "b7c7f87a84274b5bd3e8",
+    "b7d822c2b612913df885",
     "b7f319ffee063f2b6414",
     "b7fbb1e10df7b08efe0a",
     "b82e8e50c77fa8555aad",
     "b832022d0649e860419f",
     "b842663f4aa31b66a552",
     "b8978b52a1d8651728ba",
+    "b89e30270e93b28b90c9",
     "b8add3c7d18f019d25be",
     "b8be7aa803b26924b603",
     "b8d226e191a416b01c4e",
@@ -3930,6 +4000,7 @@
     "bc176f6ec889dbc3574a",
     "bc26b6262cde7fdba5c7",
     "bc3e1f3f7b361464e762",
+    "bc797d3898fb03a342b2",
     "bc7d488ad6b383772570",
     "bc9f547e6caa96f77fb7",
     "bcb41cb7e603337816d0",
@@ -3952,6 +4023,7 @@
     "be3b5892742f333e7afe",
     "be545ca0858ad3f2b51d",
     "be5a0b1e4188415068ae",
+    "be60a32a25ed52285bbd",
     "be6acdebcd80d6e410e3",
     "bea09538524230c9a8ec",
     "beb9437f1c737ea10604",
@@ -4240,6 +4312,7 @@
     "dde7442980b7eb187b9f",
     "ddfad23238ea20cc5440",
     "de31f50c0ff1b1312499",
+    "de35f6bc67139a4a029b",
     "de3a52d0d1afb5e460c2",
     "de4991a4076230f84813",
     "de954418e34c4db88d9c",
@@ -4300,6 +4373,7 @@
     "e4b96a105524bccf43d9",
     "e4ff0b2923df949196bc",
     "e509640c916653aff20d",
+    "e51682fd3cbd0fdc32a4",
     "e533f7e01002348a8b73",
     "e53732305adc13918c93",
     "e5385cfbc7e27833d136",
@@ -4324,6 +4398,7 @@
     "e6f21d321e9576a3ecef",
     "e6f8c064ddf0ac770ec9",
     "e6f9d42acee00a0bd185",
+    "e7263d25690adb011cd2",
     "e73c305766fcc6d52f37",
     "e73e6ad661a845465e93",
     "e74040f120f40874362e",
@@ -4426,6 +4501,7 @@
     "f1377c2a6128ed87c89c",
     "f13b6411df22b70fda5e",
     "f16ad4c1b164adaa1cc3",
+    "f1bea48ce5e0e150a093",
     "f1d891808413d491ac48",
     "f1e0f8905fb5d0495761",
     "f209e0d69349ff83dc4c",
@@ -4474,8 +4550,11 @@
     "f6091a1166ce9d9f27ae",
     "f6276acfca4fbe4a4770",
     "f628cd60af3bece430e6",
+    "f655cebfbdb7f8c986fb",
     "f657e24ecde01caa7f04",
     "f6660380f0b5799c0112",
+    "f6820853443f93d49bc6",
+    "f687be1fb3c127fa7729",
     "f689d439790f29bfa531",
     "f69d931b23adb86eeb31",
     "f69f6929dbd1a1dbb8d8",
@@ -4524,6 +4603,7 @@
     "fb41e5e4ca725ec816e5",
     "fb925fd507c4b09230ed",
     "fbb03eb6572156b8f835",
+    "fbbe3e242fecff4a69ba",
     "fbc81f778dee8b42df54",
     "fc07072b66eaa99b3006",
     "fc0c48ebda89687fe894",
@@ -93485,6 +93565,1566 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_selection_score": 0.67456
+    },
+    {
+      "signature": "21b5180807c2897afc5b27fe",
+      "video_sequence": 54,
+      "game": 1,
+      "family": "qd_hiragana_sandwich_confusable_substitute",
+      "script": "hiragana",
+      "grammar": "sandwich",
+      "mutation": "confusable_substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "へいへ",
+      "target": "へこへ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 3,
+        "grammar": "sandwich",
+        "mutation": "confusable_substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABA",
+        "target_skeleton": "ABA",
+        "unique_ratio": 0.6666666666666666,
+        "entropy": 0.9182958340544896,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "hiragana|sandwich|confusable_substitute|S|Hs|He",
+      "novelty_score": 0.2027,
+      "quality_score": 0.93867,
+      "fatigue_score": 0.62641,
+      "coverage_score": 0.57735,
+      "selection_score": 0.61213,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.61213
+    },
+    {
+      "signature": "250e40f5edf68bc7f4245ef9",
+      "video_sequence": 54,
+      "game": 2,
+      "family": "qd_kanji_sandwich_confusable_substitute",
+      "script": "kanji",
+      "grammar": "sandwich",
+      "mutation": "confusable_substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "未干未",
+      "target": "末干未",
+      "descriptor": {
+        "script": "kanji",
+        "length": 3,
+        "grammar": "sandwich",
+        "mutation": "confusable_substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABA",
+        "target_skeleton": "ABC",
+        "unique_ratio": 0.6666666666666666,
+        "entropy": 0.9182958340544896,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "kanji|sandwich|confusable_substitute|S|Hs|He",
+      "novelty_score": 0.2027,
+      "quality_score": 0.93867,
+      "fatigue_score": 0.62126,
+      "coverage_score": 0.57735,
+      "selection_score": 0.61381,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.61381
+    },
+    {
+      "signature": "bbc96108e158ea345f339a67",
+      "video_sequence": 54,
+      "game": 3,
+      "family": "qd_kanji_freeform_confusable_substitute",
+      "script": "kanji",
+      "grammar": "freeform",
+      "mutation": "confusable_substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "已士士王",
+      "target": "已士士玉",
+      "descriptor": {
+        "script": "kanji",
+        "length": 4,
+        "grammar": "freeform",
+        "mutation": "confusable_substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABBC",
+        "target_skeleton": "ABBC",
+        "unique_ratio": 0.75,
+        "entropy": 0.9463946303571862,
+        "symmetry": 0.5,
+        "periodicity": 0.0,
+        "transition_ratio": 0.6666666666666666,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "kanji|freeform|confusable_substitute|M|Ms|He",
+      "novelty_score": 0.23323,
+      "quality_score": 0.86,
+      "fatigue_score": 0.59027,
+      "coverage_score": 0.70711,
+      "selection_score": 0.62031,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.62031
+    },
+    {
+      "signature": "ec3875658c202f0d0c7dc0b7",
+      "video_sequence": 54,
+      "game": 4,
+      "family": "qd_hiragana_repeated_run_confusable_substitute",
+      "script": "hiragana",
+      "grammar": "repeated_run",
+      "mutation": "confusable_substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "りりほほ",
+      "target": "りりはほ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 4,
+        "grammar": "repeated_run",
+        "mutation": "confusable_substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "AABB",
+        "target_skeleton": "AABC",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 0.3333333333333333,
+        "transition_ratio": 0.3333333333333333,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "hiragana|repeated_run|confusable_substitute|M|Ls|He",
+      "novelty_score": 0.22439,
+      "quality_score": 0.92,
+      "fatigue_score": 0.57959,
+      "coverage_score": 0.57735,
+      "selection_score": 0.60968,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.60968
+    },
+    {
+      "signature": "67732c94769894580e5d21c5",
+      "video_sequence": 54,
+      "game": 5,
+      "family": "qd_kanji_alternating_substitute",
+      "script": "kanji",
+      "grammar": "alternating",
+      "mutation": "substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "千大千",
+      "target": "目大千",
+      "descriptor": {
+        "script": "kanji",
+        "length": 3,
+        "grammar": "alternating",
+        "mutation": "substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABA",
+        "target_skeleton": "ABC",
+        "unique_ratio": 0.6666666666666666,
+        "entropy": 0.9182958340544896,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "kanji|alternating|substitute|S|Hs|He",
+      "novelty_score": 0.19467,
+      "quality_score": 0.93867,
+      "fatigue_score": 0.61827,
+      "coverage_score": 0.57735,
+      "selection_score": 0.6092,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.6092
+    },
+    {
+      "signature": "5cdb61299a55bed043c68d0c",
+      "video_sequence": 54,
+      "game": 6,
+      "family": "qd_digits_freeform_substitute",
+      "script": "digits",
+      "grammar": "freeform",
+      "mutation": "substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "6161",
+      "target": "9161",
+      "descriptor": {
+        "script": "digits",
+        "length": 4,
+        "grammar": "freeform",
+        "mutation": "substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABAB",
+        "target_skeleton": "ABCB",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "digits|freeform|substitute|M|Ls|He",
+      "novelty_score": 0.23623,
+      "quality_score": 0.932,
+      "fatigue_score": 0.58044,
+      "coverage_score": 0.57735,
+      "selection_score": 0.61058,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.61058
+    },
+    {
+      "signature": "202068f5561e6e6f921de4eb",
+      "video_sequence": 54,
+      "game": 7,
+      "family": "qd_kanji_sandwich_substitute",
+      "script": "kanji",
+      "grammar": "sandwich",
+      "mutation": "substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "千己千",
+      "target": "千己干",
+      "descriptor": {
+        "script": "kanji",
+        "length": 3,
+        "grammar": "sandwich",
+        "mutation": "substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABA",
+        "target_skeleton": "ABC",
+        "unique_ratio": 0.6666666666666666,
+        "entropy": 0.9182958340544896,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "kanji|sandwich|substitute|S|Hs|He",
+      "novelty_score": 0.19306,
+      "quality_score": 0.93867,
+      "fatigue_score": 0.61276,
+      "coverage_score": 0.57735,
+      "selection_score": 0.6089,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.6089
+    },
+    {
+      "signature": "9850a695ef882e53c35f73f9",
+      "video_sequence": 54,
+      "game": 8,
+      "family": "qd_digits_palindrome_substitute",
+      "script": "digits",
+      "grammar": "palindrome",
+      "mutation": "substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "77277",
+      "target": "77227",
+      "descriptor": {
+        "script": "digits",
+        "length": 5,
+        "grammar": "palindrome",
+        "mutation": "substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "AABAA",
+        "target_skeleton": "AABBA",
+        "unique_ratio": 0.4,
+        "entropy": 0.7219280948873623,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 0.5,
+        "diff_ratio": 0.2
+      },
+      "qd_cell": "digits|palindrome|substitute|M|Hs|Me",
+      "novelty_score": 0.20356,
+      "quality_score": 0.912,
+      "fatigue_score": 0.57514,
+      "coverage_score": 0.70711,
+      "selection_score": 0.62306,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.62306
+    },
+    {
+      "signature": "fcc44ac00e29393a0c60bc4a",
+      "video_sequence": 54,
+      "game": 9,
+      "family": "qd_hiragana_sandwich_substitute",
+      "script": "hiragana",
+      "grammar": "sandwich",
+      "mutation": "substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "さるぬさ",
+      "target": "きるぬさ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 4,
+        "grammar": "sandwich",
+        "mutation": "substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABCA",
+        "target_skeleton": "ABCD",
+        "unique_ratio": 0.75,
+        "entropy": 0.9463946303571862,
+        "symmetry": 0.5,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "hiragana|sandwich|substitute|M|Ms|He",
+      "novelty_score": 0.21628,
+      "quality_score": 0.932,
+      "fatigue_score": 0.58138,
+      "coverage_score": 0.57735,
+      "selection_score": 0.60822,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.60822
+    },
+    {
+      "signature": "99ee4562f019aadde7a48d9e",
+      "video_sequence": 54,
+      "game": 10,
+      "family": "qd_hiragana_alternating_substitute",
+      "script": "hiragana",
+      "grammar": "alternating",
+      "mutation": "substitute",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "へこへ",
+      "target": "せこへ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 3,
+        "grammar": "alternating",
+        "mutation": "substitute",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABA",
+        "target_skeleton": "ABC",
+        "unique_ratio": 0.6666666666666666,
+        "entropy": 0.9182958340544896,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "hiragana|alternating|substitute|S|Hs|He",
+      "novelty_score": 0.19467,
+      "quality_score": 0.93867,
+      "fatigue_score": 0.60999,
+      "coverage_score": 0.57735,
+      "selection_score": 0.60984,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.60984
+    },
+    {
+      "signature": "968967fdbad1c7178f4405bd",
+      "video_sequence": 54,
+      "game": 11,
+      "family": "qd_digits_alternating_adjacent_swap",
+      "script": "digits",
+      "grammar": "alternating",
+      "mutation": "adjacent_swap",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "8282",
+      "target": "2882",
+      "descriptor": {
+        "script": "digits",
+        "length": 4,
+        "grammar": "alternating",
+        "mutation": "adjacent_swap",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABAB",
+        "target_skeleton": "ABBA",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.5
+      },
+      "qd_cell": "digits|alternating|adjacent_swap|M|Ls|He",
+      "novelty_score": 0.2197,
+      "quality_score": 0.8236,
+      "fatigue_score": 0.6017,
+      "coverage_score": 0.70711,
+      "selection_score": 0.6096,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.6096
+    },
+    {
+      "signature": "e38e519605dd3e01f27a6df1",
+      "video_sequence": 54,
+      "game": 12,
+      "family": "qd_kanji_periodic_adjacent_swap",
+      "script": "kanji",
+      "grammar": "periodic",
+      "mutation": "adjacent_swap",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "干人干人干",
+      "target": "干人干干人",
+      "descriptor": {
+        "script": "kanji",
+        "length": 5,
+        "grammar": "periodic",
+        "mutation": "adjacent_swap",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABABA",
+        "target_skeleton": "ABAAB",
+        "unique_ratio": 0.4,
+        "entropy": 0.9709505944546686,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.4
+      },
+      "qd_cell": "kanji|periodic|adjacent_swap|M|Hs|He",
+      "novelty_score": 0.21621,
+      "quality_score": 0.832,
+      "fatigue_score": 0.60075,
+      "coverage_score": 0.70711,
+      "selection_score": 0.60878,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.60878
+    },
+    {
+      "signature": "69993a673788c5b78b325731",
+      "video_sequence": 54,
+      "game": 13,
+      "family": "qd_kanji_freeform_adjacent_swap",
+      "script": "kanji",
+      "grammar": "freeform",
+      "mutation": "adjacent_swap",
+      "mutation_depth": 1,
+      "difficulty": "easy",
+      "filler": "日烏日白日",
+      "target": "日烏日日白",
+      "descriptor": {
+        "script": "kanji",
+        "length": 5,
+        "grammar": "freeform",
+        "mutation": "adjacent_swap",
+        "mutation_depth": 1,
+        "difficulty": "easy",
+        "skeleton": "ABACA",
+        "target_skeleton": "ABAAC",
+        "unique_ratio": 0.6,
+        "entropy": 0.8649735207179273,
+        "symmetry": 0.6,
+        "periodicity": 0.6666666666666666,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.4
+      },
+      "qd_cell": "kanji|freeform|adjacent_swap|M|Ms|He",
+      "novelty_score": 0.25414,
+      "quality_score": 0.796,
+      "fatigue_score": 0.59897,
+      "coverage_score": 0.70711,
+      "selection_score": 0.61329,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.61329
+    },
+    {
+      "signature": "7c699f0cff33ecaec634f7ce",
+      "video_sequence": 54,
+      "game": 14,
+      "family": "qd_hiragana_periodic_mirror_break",
+      "script": "hiragana",
+      "grammar": "periodic",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "かこかこ",
+      "target": "ちこかこ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 4,
+        "grammar": "periodic",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABAB",
+        "target_skeleton": "ABCB",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "hiragana|periodic|mirror_break|M|Ls|He",
+      "novelty_score": 0.23354,
+      "quality_score": 0.92571,
+      "fatigue_score": 0.60666,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63752,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63752
+    },
+    {
+      "signature": "0a68b0c7752760bf105a9122",
+      "video_sequence": 54,
+      "game": 15,
+      "family": "qd_katakana_wave_span_rotate",
+      "script": "katakana",
+      "grammar": "wave",
+      "mutation": "span_rotate",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "ツトネトツトネ",
+      "target": "ツネトトツトネ",
+      "descriptor": {
+        "script": "katakana",
+        "length": 7,
+        "grammar": "wave",
+        "mutation": "span_rotate",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABCBABC",
+        "target_skeleton": "ABCCACB",
+        "unique_ratio": 0.42857142857142855,
+        "entropy": 0.9821410328348752,
+        "symmetry": 0.42857142857142855,
+        "periodicity": 0.6,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.2857142857142857
+      },
+      "qd_cell": "katakana|wave|span_rotate|L|Ms|He",
+      "novelty_score": 0.24867,
+      "quality_score": 0.872,
+      "fatigue_score": 0.67133,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64101,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64101
+    },
+    {
+      "signature": "6a00fcde03dd42cac80677ac",
+      "video_sequence": 54,
+      "game": 16,
+      "family": "qd_digits_meta:palindrome+wave:interleave_mirror_break",
+      "script": "digits",
+      "grammar": "meta:palindrome+wave:interleave",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "37073",
+      "target": "87073",
+      "descriptor": {
+        "script": "digits",
+        "length": 5,
+        "grammar": "meta:palindrome+wave:interleave",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABCBA",
+        "target_skeleton": "ABCBD",
+        "unique_ratio": 0.6,
+        "entropy": 0.9602297178607612,
+        "symmetry": 1.0,
+        "periodicity": 0.6666666666666666,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.2
+      },
+      "qd_cell": "digits|meta|mirror_break|M|Hs|He",
+      "novelty_score": 0.21431,
+      "quality_score": 0.98,
+      "fatigue_score": 0.55232,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64009,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64009
+    },
+    {
+      "signature": "75219845bc4ebe115e403a1b",
+      "video_sequence": 54,
+      "game": 17,
+      "family": "qd_hiragana_repeated_run_mirror_break",
+      "script": "hiragana",
+      "grammar": "repeated_run",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "すすすりりり",
+      "target": "すすみりりり",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 6,
+        "grammar": "repeated_run",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "AAABBB",
+        "target_skeleton": "AABCCC",
+        "unique_ratio": 0.3333333333333333,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 0.4,
+        "transition_ratio": 0.2,
+        "diff_ratio": 0.16666666666666666
+      },
+      "qd_cell": "hiragana|repeated_run|mirror_break|L|Ls|He",
+      "novelty_score": 0.2227,
+      "quality_score": 0.92038,
+      "fatigue_score": 0.6198,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63829,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63829
+    },
+    {
+      "signature": "b19d952fc4365289fc1d82cd",
+      "video_sequence": 54,
+      "game": 18,
+      "family": "qd_kanji_mirror_blocks_mirror_break",
+      "script": "kanji",
+      "grammar": "mirror_blocks",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "白白白白",
+      "target": "白自白白",
+      "descriptor": {
+        "script": "kanji",
+        "length": 4,
+        "grammar": "mirror_blocks",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "AAAA",
+        "target_skeleton": "ABAA",
+        "unique_ratio": 0.25,
+        "entropy": 0.0,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 0.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "kanji|mirror_blocks|mirror_break|M|Hs|Le",
+      "novelty_score": 0.25076,
+      "quality_score": 0.92571,
+      "fatigue_score": 0.61164,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64516,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64516
+    },
+    {
+      "signature": "4f5fe1b253ca1eba810cb227",
+      "video_sequence": 54,
+      "game": 19,
+      "family": "qd_digits_palindrome_span_rotate",
+      "script": "digits",
+      "grammar": "palindrome",
+      "mutation": "span_rotate",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "700007",
+      "target": "700008",
+      "descriptor": {
+        "script": "digits",
+        "length": 6,
+        "grammar": "palindrome",
+        "mutation": "span_rotate",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABBBBA",
+        "target_skeleton": "ABBBBC",
+        "unique_ratio": 0.3333333333333333,
+        "entropy": 0.9182958340544896,
+        "symmetry": 1.0,
+        "periodicity": 0.3333333333333333,
+        "transition_ratio": 0.4,
+        "diff_ratio": 0.16666666666666666
+      },
+      "qd_cell": "digits|palindrome|span_rotate|L|Hs|He",
+      "novelty_score": 0.25825,
+      "quality_score": 0.94838,
+      "fatigue_score": 0.64161,
+      "coverage_score": 0.57735,
+      "selection_score": 0.63772,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63772
+    },
+    {
+      "signature": "beca9fd48dd5974392219e1e",
+      "video_sequence": 54,
+      "game": 20,
+      "family": "qd_digits_mirror_blocks_span_rotate",
+      "script": "digits",
+      "grammar": "mirror_blocks",
+      "mutation": "span_rotate",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "555555",
+      "target": "545555",
+      "descriptor": {
+        "script": "digits",
+        "length": 6,
+        "grammar": "mirror_blocks",
+        "mutation": "span_rotate",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "AAAAAA",
+        "target_skeleton": "ABAAAA",
+        "unique_ratio": 0.16666666666666666,
+        "entropy": 0.0,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 0.0,
+        "diff_ratio": 0.16666666666666666
+      },
+      "qd_cell": "digits|mirror_blocks|span_rotate|L|Hs|Le",
+      "novelty_score": 0.2955,
+      "quality_score": 0.94838,
+      "fatigue_score": 0.63996,
+      "coverage_score": 0.70711,
+      "selection_score": 0.66526,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.66526
+    },
+    {
+      "signature": "2eec8c56a93c8ea0403f056f",
+      "video_sequence": 54,
+      "game": 21,
+      "family": "qd_katakana_alternating_substitute+substitute",
+      "script": "katakana",
+      "grammar": "alternating",
+      "mutation": "substitute+substitute",
+      "mutation_depth": 2,
+      "difficulty": "medium",
+      "filler": "セトセト",
+      "target": "ントセト",
+      "descriptor": {
+        "script": "katakana",
+        "length": 4,
+        "grammar": "alternating",
+        "mutation": "substitute+substitute",
+        "mutation_depth": 2,
+        "difficulty": "medium",
+        "skeleton": "ABAB",
+        "target_skeleton": "ABCB",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "katakana|alternating|chain2|M|Ls|He",
+      "novelty_score": 0.24677,
+      "quality_score": 0.92571,
+      "fatigue_score": 0.61131,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64663,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64663
+    },
+    {
+      "signature": "722689aff888c1e74777af58",
+      "video_sequence": 54,
+      "game": 22,
+      "family": "qd_digits_wave_span_rotate",
+      "script": "digits",
+      "grammar": "wave",
+      "mutation": "span_rotate",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "469646",
+      "target": "469466",
+      "descriptor": {
+        "script": "digits",
+        "length": 6,
+        "grammar": "wave",
+        "mutation": "span_rotate",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABCBAB",
+        "target_skeleton": "ABCABB",
+        "unique_ratio": 0.5,
+        "entropy": 0.9206198357143051,
+        "symmetry": 0.0,
+        "periodicity": 0.75,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "digits|wave|span_rotate|L|Ls|He",
+      "novelty_score": 0.24578,
+      "quality_score": 0.88038,
+      "fatigue_score": 0.63491,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63796,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63796
+    },
+    {
+      "signature": "e81370743acfe6076674d9c4",
+      "video_sequence": 54,
+      "game": 23,
+      "family": "qd_hiragana_meta:alternating+periodic:masked_mix_adjacent_swap",
+      "script": "hiragana",
+      "grammar": "meta:alternating+periodic:masked_mix",
+      "mutation": "adjacent_swap",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "ほれほれほれほ",
+      "target": "ほれほれほほれ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 7,
+        "grammar": "meta:alternating+periodic:masked_mix",
+        "mutation": "adjacent_swap",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABABABA",
+        "target_skeleton": "ABABAAB",
+        "unique_ratio": 0.2857142857142857,
+        "entropy": 0.9852281360342515,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.2857142857142857
+      },
+      "qd_cell": "hiragana|meta|adjacent_swap|L|Hs|He",
+      "novelty_score": 0.26512,
+      "quality_score": 0.87714,
+      "fatigue_score": 0.59807,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63782,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63782
+    },
+    {
+      "signature": "de3bfef864cad0e55ce08966",
+      "video_sequence": 54,
+      "game": 24,
+      "family": "qd_hiragana_sandwich_mirror_break",
+      "script": "hiragana",
+      "grammar": "sandwich",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "おくねお",
+      "target": "おさねお",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 4,
+        "grammar": "sandwich",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABCA",
+        "target_skeleton": "ABCA",
+        "unique_ratio": 0.75,
+        "entropy": 0.9463946303571862,
+        "symmetry": 0.5,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "hiragana|sandwich|mirror_break|M|Ms|He",
+      "novelty_score": 0.23196,
+      "quality_score": 0.92571,
+      "fatigue_score": 0.60277,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63943,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63943
+    },
+    {
+      "signature": "4bba7f7971bcbbcb1298dc7c",
+      "video_sequence": 54,
+      "game": 25,
+      "family": "qd_digits_repeated_run_span_rotate",
+      "script": "digits",
+      "grammar": "repeated_run",
+      "mutation": "span_rotate",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "811",
+      "target": "118",
+      "descriptor": {
+        "script": "digits",
+        "length": 3,
+        "grammar": "repeated_run",
+        "mutation": "span_rotate",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABB",
+        "target_skeleton": "AAB",
+        "unique_ratio": 0.6666666666666666,
+        "entropy": 0.9182958340544896,
+        "symmetry": 0.3333333333333333,
+        "periodicity": 0.0,
+        "transition_ratio": 0.5,
+        "diff_ratio": 0.6666666666666666
+      },
+      "qd_cell": "digits|repeated_run|span_rotate|S|Ls|He",
+      "novelty_score": 0.26988,
+      "quality_score": 0.64876,
+      "fatigue_score": 0.63503,
+      "coverage_score": 1.0,
+      "selection_score": 0.63824,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63824
+    },
+    {
+      "signature": "ef3400bb9eebdaa09634d243",
+      "video_sequence": 54,
+      "game": 26,
+      "family": "qd_digits_repeated_run_mirror_break",
+      "script": "digits",
+      "grammar": "repeated_run",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "66667",
+      "target": "69667",
+      "descriptor": {
+        "script": "digits",
+        "length": 5,
+        "grammar": "repeated_run",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "AAAAB",
+        "target_skeleton": "ABAAC",
+        "unique_ratio": 0.4,
+        "entropy": 0.7219280948873623,
+        "symmetry": 0.6,
+        "periodicity": 0.75,
+        "transition_ratio": 0.25,
+        "diff_ratio": 0.2
+      },
+      "qd_cell": "digits|repeated_run|mirror_break|M|Ms|Me",
+      "novelty_score": 0.20513,
+      "quality_score": 0.968,
+      "fatigue_score": 0.58091,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63852,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63852
+    },
+    {
+      "signature": "679fa718ce9b33bea72acb7d",
+      "video_sequence": 54,
+      "game": 27,
+      "family": "qd_katakana_wave_mirror_break",
+      "script": "katakana",
+      "grammar": "wave",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "medium",
+      "filler": "ユサカサユサカ",
+      "target": "コサカサユサカ",
+      "descriptor": {
+        "script": "katakana",
+        "length": 7,
+        "grammar": "wave",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "medium",
+        "skeleton": "ABCBABC",
+        "target_skeleton": "ABCBDBC",
+        "unique_ratio": 0.42857142857142855,
+        "entropy": 0.9821410328348752,
+        "symmetry": 0.42857142857142855,
+        "periodicity": 0.6,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.14285714285714285
+      },
+      "qd_cell": "katakana|wave|mirror_break|L|Ms|He",
+      "novelty_score": 0.22394,
+      "quality_score": 0.89943,
+      "fatigue_score": 0.6439,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63675,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63675
+    },
+    {
+      "signature": "1024d1c911c503ade615479c",
+      "video_sequence": 54,
+      "game": 28,
+      "family": "qd_katakana_repeated_run_adjacent_swap",
+      "script": "katakana",
+      "grammar": "repeated_run",
+      "mutation": "adjacent_swap",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "ナナナナヒヒヒヒ",
+      "target": "ナナナヒナヒヒヒ",
+      "descriptor": {
+        "script": "katakana",
+        "length": 8,
+        "grammar": "repeated_run",
+        "mutation": "adjacent_swap",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "AAAABBBB",
+        "target_skeleton": "AAABABBB",
+        "unique_ratio": 0.25,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 0.42857142857142855,
+        "transition_ratio": 0.14285714285714285,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "katakana|repeated_run|adjacent_swap|L|Ls|He",
+      "novelty_score": 0.27611,
+      "quality_score": 0.8838,
+      "fatigue_score": 0.65189,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64922,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64922
+    },
+    {
+      "signature": "0bda8ad63a1807c12511fe77",
+      "video_sequence": 54,
+      "game": 29,
+      "family": "qd_hiragana_periodic_substitute+substitute",
+      "script": "hiragana",
+      "grammar": "periodic",
+      "mutation": "substitute+substitute",
+      "mutation_depth": 2,
+      "difficulty": "hard",
+      "filler": "しこもしこもし",
+      "target": "しこもしよもつ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 7,
+        "grammar": "periodic",
+        "mutation": "substitute+substitute",
+        "mutation_depth": 2,
+        "difficulty": "hard",
+        "skeleton": "ABCABCA",
+        "target_skeleton": "ABCADCE",
+        "unique_ratio": 0.42857142857142855,
+        "entropy": 0.9821410328348752,
+        "symmetry": 0.42857142857142855,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.2857142857142857
+      },
+      "qd_cell": "hiragana|periodic|chain2|L|Ms|He",
+      "novelty_score": 0.21595,
+      "quality_score": 0.96671,
+      "fatigue_score": 0.6375,
+      "coverage_score": 0.70711,
+      "selection_score": 0.65045,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.65045
+    },
+    {
+      "signature": "b50b8217d6bc01c55b386ff0",
+      "video_sequence": 54,
+      "game": 30,
+      "family": "qd_kanji_meta:alternating+mirror_blocks:interleave_mirror_break+mirror_break+double_substitute",
+      "script": "kanji",
+      "grammar": "meta:alternating+mirror_blocks:interleave",
+      "mutation": "mirror_break+mirror_break+double_substitute",
+      "mutation_depth": 3,
+      "difficulty": "hard",
+      "filler": "白人白未白入白入",
+      "target": "自人白未白入自入",
+      "descriptor": {
+        "script": "kanji",
+        "length": 8,
+        "grammar": "meta:alternating+mirror_blocks:interleave",
+        "mutation": "mirror_break+mirror_break+double_substitute",
+        "mutation_depth": 3,
+        "difficulty": "hard",
+        "skeleton": "ABACADAD",
+        "target_skeleton": "ABCDCEAE",
+        "unique_ratio": 0.5,
+        "entropy": 0.875,
+        "symmetry": 0.0,
+        "periodicity": 0.5,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "kanji|meta|chain3|L|Ls|He",
+      "novelty_score": 0.26099,
+      "quality_score": 0.9198,
+      "fatigue_score": 0.64032,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64919,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64919
+    },
+    {
+      "signature": "cac628d30966b9ec9b3962e3",
+      "video_sequence": 54,
+      "game": 31,
+      "family": "qd_hiragana_meta:alternating+repeated_run:interleave_mirror_break+mirror_break+span_rotate",
+      "script": "hiragana",
+      "grammar": "meta:alternating+repeated_run:interleave",
+      "mutation": "mirror_break+mirror_break+span_rotate",
+      "mutation_depth": 3,
+      "difficulty": "hard",
+      "filler": "ははははは",
+      "target": "ほほほはは",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 5,
+        "grammar": "meta:alternating+repeated_run:interleave",
+        "mutation": "mirror_break+mirror_break+span_rotate",
+        "mutation_depth": 3,
+        "difficulty": "hard",
+        "skeleton": "AAAAA",
+        "target_skeleton": "AAABB",
+        "unique_ratio": 0.2,
+        "entropy": 0.0,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 0.0,
+        "diff_ratio": 0.6
+      },
+      "qd_cell": "hiragana|meta|chain3|M|Hs|Le",
+      "novelty_score": 0.24461,
+      "quality_score": 0.78916,
+      "fatigue_score": 0.58172,
+      "coverage_score": 1.0,
+      "selection_score": 0.65614,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.65614
+    },
+    {
+      "signature": "c454d3699813317bfaebba6f",
+      "video_sequence": 54,
+      "game": 32,
+      "family": "qd_hiragana_mirror_blocks_double_substitute",
+      "script": "hiragana",
+      "grammar": "mirror_blocks",
+      "mutation": "double_substitute",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "ふるねねるふ",
+      "target": "しるねねるえ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 6,
+        "grammar": "mirror_blocks",
+        "mutation": "double_substitute",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "ABCCBA",
+        "target_skeleton": "ABCCBD",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 1.0,
+        "periodicity": 0.3333333333333333,
+        "transition_ratio": 0.8,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "hiragana|mirror_blocks|double_substitute|L|Hs|He",
+      "novelty_score": 0.22887,
+      "quality_score": 0.92847,
+      "fatigue_score": 0.65657,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64775,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64775
+    },
+    {
+      "signature": "7961e35c5f8c1d63cd384a94",
+      "video_sequence": 54,
+      "game": 33,
+      "family": "qd_hiragana_meta:palindrome+repeated_run:echo_substitute",
+      "script": "hiragana",
+      "grammar": "meta:palindrome+repeated_run:echo",
+      "mutation": "substitute",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "おはれふふふふ",
+      "target": "おはれふひふふ",
+      "descriptor": {
+        "script": "hiragana",
+        "length": 7,
+        "grammar": "meta:palindrome+repeated_run:echo",
+        "mutation": "substitute",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "ABCDDDD",
+        "target_skeleton": "ABCDEDD",
+        "unique_ratio": 0.5714285714285714,
+        "entropy": 0.8322488896002305,
+        "symmetry": 0.14285714285714285,
+        "periodicity": 0.0,
+        "transition_ratio": 0.5,
+        "diff_ratio": 0.14285714285714285
+      },
+      "qd_cell": "hiragana|meta|substitute|L|Ls|He",
+      "novelty_score": 0.29001,
+      "quality_score": 0.8978,
+      "fatigue_score": 0.57024,
+      "coverage_score": 0.70711,
+      "selection_score": 0.63884,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.63884
+    },
+    {
+      "signature": "84e822e15cc4014c559eaecb",
+      "video_sequence": 54,
+      "game": 34,
+      "family": "qd_digits_mirror_blocks_mirror_break+double_substitute+substitute",
+      "script": "digits",
+      "grammar": "mirror_blocks",
+      "mutation": "mirror_break+double_substitute+substitute",
+      "mutation_depth": 3,
+      "difficulty": "hard",
+      "filler": "590095",
+      "target": "998095",
+      "descriptor": {
+        "script": "digits",
+        "length": 6,
+        "grammar": "mirror_blocks",
+        "mutation": "mirror_break+double_substitute+substitute",
+        "mutation_depth": 3,
+        "difficulty": "hard",
+        "skeleton": "ABCCBA",
+        "target_skeleton": "AABCAD",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 1.0,
+        "periodicity": 0.3333333333333333,
+        "transition_ratio": 0.8,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "digits|mirror_blocks|chain3|L|Hs|He",
+      "novelty_score": 0.25437,
+      "quality_score": 0.92847,
+      "fatigue_score": 0.64331,
+      "coverage_score": 0.70711,
+      "selection_score": 0.65448,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.65448
+    },
+    {
+      "signature": "4f1b4fab6918ce85ebe8e34f",
+      "video_sequence": 54,
+      "game": 35,
+      "family": "qd_katakana_repeated_run_span_rotate",
+      "script": "katakana",
+      "grammar": "repeated_run",
+      "mutation": "span_rotate",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "ヘヘヘイイイ",
+      "target": "ヘヘイイヘイ",
+      "descriptor": {
+        "script": "katakana",
+        "length": 6,
+        "grammar": "repeated_run",
+        "mutation": "span_rotate",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "AAABBB",
+        "target_skeleton": "AABBAB",
+        "unique_ratio": 0.3333333333333333,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 0.4,
+        "transition_ratio": 0.2,
+        "diff_ratio": 0.3333333333333333
+      },
+      "qd_cell": "katakana|repeated_run|span_rotate|L|Ls|He",
+      "novelty_score": 0.2614,
+      "quality_score": 0.90047,
+      "fatigue_score": 0.63193,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64466,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64466
+    },
+    {
+      "signature": "b0db628c0fc76b977795b20e",
+      "video_sequence": 54,
+      "game": 36,
+      "family": "qd_digits_sandwich_mirror_break",
+      "script": "digits",
+      "grammar": "sandwich",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "218812",
+      "target": "213812",
+      "descriptor": {
+        "script": "digits",
+        "length": 6,
+        "grammar": "sandwich",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "ABCCBA",
+        "target_skeleton": "ABCDBA",
+        "unique_ratio": 0.5,
+        "entropy": 1.0,
+        "symmetry": 1.0,
+        "periodicity": 0.3333333333333333,
+        "transition_ratio": 0.8,
+        "diff_ratio": 0.16666666666666666
+      },
+      "qd_cell": "digits|sandwich|mirror_break|L|Hs|He",
+      "novelty_score": 0.27108,
+      "quality_score": 0.93647,
+      "fatigue_score": 0.60969,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64918,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64918
+    },
+    {
+      "signature": "f6e616d7b403021062964f9a",
+      "video_sequence": 54,
+      "game": 37,
+      "family": "qd_katakana_meta:periodic+wave:masked_mix_span_rotate",
+      "script": "katakana",
+      "grammar": "meta:periodic+wave:masked_mix",
+      "mutation": "span_rotate",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "カハカハカハカ",
+      "target": "カカハハカハカ",
+      "descriptor": {
+        "script": "katakana",
+        "length": 7,
+        "grammar": "meta:periodic+wave:masked_mix",
+        "mutation": "span_rotate",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "ABABABA",
+        "target_skeleton": "AABBABA",
+        "unique_ratio": 0.2857142857142857,
+        "entropy": 0.9852281360342515,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.2857142857142857
+      },
+      "qd_cell": "katakana|meta|span_rotate|L|Hs|He",
+      "novelty_score": 0.27694,
+      "quality_score": 0.94751,
+      "fatigue_score": 0.60985,
+      "coverage_score": 0.70711,
+      "selection_score": 0.656,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.656
+    },
+    {
+      "signature": "5eb8a063cc4d3e155072cdc8",
+      "video_sequence": 54,
+      "game": 38,
+      "family": "qd_kanji_meta:periodic+repeated_run:masked_mix_confusable_substitute+mirror_break",
+      "script": "kanji",
+      "grammar": "meta:periodic+repeated_run:masked_mix",
+      "mutation": "confusable_substitute+mirror_break",
+      "mutation_depth": 2,
+      "difficulty": "hard",
+      "filler": "末自末白自白末",
+      "target": "末自未自自白末",
+      "descriptor": {
+        "script": "kanji",
+        "length": 7,
+        "grammar": "meta:periodic+repeated_run:masked_mix",
+        "mutation": "confusable_substitute+mirror_break",
+        "mutation_depth": 2,
+        "difficulty": "hard",
+        "skeleton": "ABACBCA",
+        "target_skeleton": "ABCBBDA",
+        "unique_ratio": 0.42857142857142855,
+        "entropy": 0.9821410328348752,
+        "symmetry": 0.42857142857142855,
+        "periodicity": 0.5,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.2857142857142857
+      },
+      "qd_cell": "kanji|meta|chain2|L|Ms|He",
+      "novelty_score": 0.23263,
+      "quality_score": 0.96157,
+      "fatigue_score": 0.59448,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64862,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64862
+    },
+    {
+      "signature": "19e1997aa2b742eb953d71de",
+      "video_sequence": 54,
+      "game": 39,
+      "family": "qd_kanji_alternating_adjacent_swap",
+      "script": "kanji",
+      "grammar": "alternating",
+      "mutation": "adjacent_swap",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "己未己未己未己未",
+      "target": "未己己未己未己未",
+      "descriptor": {
+        "script": "kanji",
+        "length": 8,
+        "grammar": "alternating",
+        "mutation": "adjacent_swap",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "ABABABAB",
+        "target_skeleton": "ABBABABA",
+        "unique_ratio": 0.25,
+        "entropy": 1.0,
+        "symmetry": 0.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.25
+      },
+      "qd_cell": "kanji|alternating|adjacent_swap|L|Ls|He",
+      "novelty_score": 0.26489,
+      "quality_score": 0.9318,
+      "fatigue_score": 0.65667,
+      "coverage_score": 0.70711,
+      "selection_score": 0.65744,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.65744
+    },
+    {
+      "signature": "caf9c37cd75097a44a99fd36",
+      "video_sequence": 54,
+      "game": 40,
+      "family": "qd_kanji_alternating_mirror_break",
+      "script": "kanji",
+      "grammar": "alternating",
+      "mutation": "mirror_break",
+      "mutation_depth": 1,
+      "difficulty": "hard",
+      "filler": "自入自入自入自",
+      "target": "自人自入自入自",
+      "descriptor": {
+        "script": "kanji",
+        "length": 7,
+        "grammar": "alternating",
+        "mutation": "mirror_break",
+        "mutation_depth": 1,
+        "difficulty": "hard",
+        "skeleton": "ABABABA",
+        "target_skeleton": "ABACACA",
+        "unique_ratio": 0.2857142857142857,
+        "entropy": 0.9852281360342515,
+        "symmetry": 1.0,
+        "periodicity": 1.0,
+        "transition_ratio": 1.0,
+        "diff_ratio": 0.14285714285714285
+      },
+      "qd_cell": "kanji|alternating|mirror_break|L|Hs|He",
+      "novelty_score": 0.24673,
+      "quality_score": 0.92694,
+      "fatigue_score": 0.62882,
+      "coverage_score": 0.70711,
+      "selection_score": 0.64435,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_selection_score": 0.64435
     }
   ],
   "used_palettes": [
@@ -129967,6 +131607,646 @@
         56
       ],
       "novelty": 0.0324
+    },
+    {
+      "signature": "62a18c6a1d927f0a0e2c",
+      "video_sequence": 54,
+      "game": 1,
+      "theme": [
+        70,
+        240,
+        137
+      ],
+      "theme2": [
+        64,
+        95,
+        179
+      ],
+      "novelty": 0.0381
+    },
+    {
+      "signature": "b89e30270e93b28b90c9",
+      "video_sequence": 54,
+      "game": 2,
+      "theme": [
+        59,
+        222,
+        138
+      ],
+      "theme2": [
+        68,
+        69,
+        201
+      ],
+      "novelty": 0.0396
+    },
+    {
+      "signature": "8a486fb5a239157f6f95",
+      "video_sequence": 54,
+      "game": 3,
+      "theme": [
+        49,
+        27,
+        242
+      ],
+      "theme2": [
+        215,
+        65,
+        144
+      ],
+      "novelty": 0.0452
+    },
+    {
+      "signature": "aa049b0d3a5da75c9b9d",
+      "video_sequence": 54,
+      "game": 4,
+      "theme": [
+        232,
+        44,
+        204
+      ],
+      "theme2": [
+        204,
+        88,
+        67
+      ],
+      "novelty": 0.0512
+    },
+    {
+      "signature": "be60a32a25ed52285bbd",
+      "video_sequence": 54,
+      "game": 5,
+      "theme": [
+        72,
+        232,
+        158
+      ],
+      "theme2": [
+        67,
+        134,
+        239
+      ],
+      "novelty": 0.0488
+    },
+    {
+      "signature": "1d6e27542456a038d3ea",
+      "video_sequence": 54,
+      "game": 6,
+      "theme": [
+        56,
+        222,
+        208
+      ],
+      "theme2": [
+        98,
+        86,
+        232
+      ],
+      "novelty": 0.0356
+    },
+    {
+      "signature": "3dc90735d07531f3192a",
+      "video_sequence": 54,
+      "game": 7,
+      "theme": [
+        167,
+        244,
+        58
+      ],
+      "theme2": [
+        23,
+        185,
+        178
+      ],
+      "novelty": 0.0473
+    },
+    {
+      "signature": "1e11c3d6d5b914e3747c",
+      "video_sequence": 54,
+      "game": 8,
+      "theme": [
+        66,
+        226,
+        207
+      ],
+      "theme2": [
+        68,
+        32,
+        183
+      ],
+      "novelty": 0.0436
+    },
+    {
+      "signature": "b7d822c2b612913df885",
+      "video_sequence": 54,
+      "game": 9,
+      "theme": [
+        212,
+        250,
+        20
+      ],
+      "theme2": [
+        66,
+        233,
+        174
+      ],
+      "novelty": 0.0363
+    },
+    {
+      "signature": "098344dc5686a68c0088",
+      "video_sequence": 54,
+      "game": 10,
+      "theme": [
+        239,
+        73,
+        148
+      ],
+      "theme2": [
+        217,
+        231,
+        30
+      ],
+      "novelty": 0.0349
+    },
+    {
+      "signature": "a3dc317ac69e540c94bd",
+      "video_sequence": 54,
+      "game": 11,
+      "theme": [
+        95,
+        225,
+        51
+      ],
+      "theme2": [
+        64,
+        181,
+        196
+      ],
+      "novelty": 0.0366
+    },
+    {
+      "signature": "11c0eeee8977039a5847",
+      "video_sequence": 54,
+      "game": 12,
+      "theme": [
+        221,
+        198,
+        41
+      ],
+      "theme2": [
+        46,
+        236,
+        37
+      ],
+      "novelty": 0.0387
+    },
+    {
+      "signature": "192c766446a541d57950",
+      "video_sequence": 54,
+      "game": 13,
+      "theme": [
+        40,
+        234,
+        252
+      ],
+      "theme2": [
+        127,
+        67,
+        177
+      ],
+      "novelty": 0.0425
+    },
+    {
+      "signature": "15d19225d1059cb7cb25",
+      "video_sequence": 54,
+      "game": 14,
+      "theme": [
+        38,
+        58,
+        224
+      ],
+      "theme2": [
+        184,
+        34,
+        189
+      ],
+      "novelty": 0.0493
+    },
+    {
+      "signature": "fbbe3e242fecff4a69ba",
+      "video_sequence": 54,
+      "game": 15,
+      "theme": [
+        225,
+        66,
+        133
+      ],
+      "theme2": [
+        200,
+        178,
+        69
+      ],
+      "novelty": 0.0471
+    },
+    {
+      "signature": "f687be1fb3c127fa7729",
+      "video_sequence": 54,
+      "game": 16,
+      "theme": [
+        236,
+        154,
+        64
+      ],
+      "theme2": [
+        45,
+        217,
+        48
+      ],
+      "novelty": 0.0365
+    },
+    {
+      "signature": "158c3ef0ea377d4ed806",
+      "video_sequence": 54,
+      "game": 17,
+      "theme": [
+        250,
+        67,
+        60
+      ],
+      "theme2": [
+        232,
+        238,
+        90
+      ],
+      "novelty": 0.0487
+    },
+    {
+      "signature": "040e9c982d768813b575",
+      "video_sequence": 54,
+      "game": 18,
+      "theme": [
+        234,
+        183,
+        63
+      ],
+      "theme2": [
+        70,
+        230,
+        90
+      ],
+      "novelty": 0.0366
+    },
+    {
+      "signature": "029f42eb171800575b86",
+      "video_sequence": 54,
+      "game": 19,
+      "theme": [
+        224,
+        236,
+        44
+      ],
+      "theme2": [
+        64,
+        191,
+        71
+      ],
+      "novelty": 0.0503
+    },
+    {
+      "signature": "b33d3457f9b73b61c18e",
+      "video_sequence": 54,
+      "game": 20,
+      "theme": [
+        31,
+        243,
+        132
+      ],
+      "theme2": [
+        29,
+        90,
+        177
+      ],
+      "novelty": 0.0421
+    },
+    {
+      "signature": "bc797d3898fb03a342b2",
+      "video_sequence": 54,
+      "game": 21,
+      "theme": [
+        195,
+        227,
+        54
+      ],
+      "theme2": [
+        45,
+        200,
+        152
+      ],
+      "novelty": 0.0322
+    },
+    {
+      "signature": "e51682fd3cbd0fdc32a4",
+      "video_sequence": 54,
+      "game": 22,
+      "theme": [
+        40,
+        209,
+        245
+      ],
+      "theme2": [
+        183,
+        61,
+        229
+      ],
+      "novelty": 0.0362
+    },
+    {
+      "signature": "f655cebfbdb7f8c986fb",
+      "video_sequence": 54,
+      "game": 23,
+      "theme": [
+        237,
+        74,
+        188
+      ],
+      "theme2": [
+        198,
+        108,
+        27
+      ],
+      "novelty": 0.0357
+    },
+    {
+      "signature": "7703b236a6c6cfcf1366",
+      "video_sequence": 54,
+      "game": 24,
+      "theme": [
+        91,
+        250,
+        56
+      ],
+      "theme2": [
+        76,
+        185,
+        219
+      ],
+      "novelty": 0.0372
+    },
+    {
+      "signature": "3214987258b4f8812afd",
+      "video_sequence": 54,
+      "game": 25,
+      "theme": [
+        68,
+        213,
+        221
+      ],
+      "theme2": [
+        167,
+        76,
+        236
+      ],
+      "novelty": 0.038
+    },
+    {
+      "signature": "b43bce29068be9107734",
+      "video_sequence": 54,
+      "game": 26,
+      "theme": [
+        233,
+        55,
+        75
+      ],
+      "theme2": [
+        199,
+        185,
+        46
+      ],
+      "novelty": 0.0465
+    },
+    {
+      "signature": "f6820853443f93d49bc6",
+      "video_sequence": 54,
+      "game": 27,
+      "theme": [
+        51,
+        248,
+        27
+      ],
+      "theme2": [
+        28,
+        141,
+        227
+      ],
+      "novelty": 0.0424
+    },
+    {
+      "signature": "61ee5ccb1994aef02caf",
+      "video_sequence": 54,
+      "game": 28,
+      "theme": [
+        41,
+        18,
+        220
+      ],
+      "theme2": [
+        233,
+        87,
+        192
+      ],
+      "novelty": 0.0407
+    },
+    {
+      "signature": "4016a4244da024e1f3b0",
+      "video_sequence": 54,
+      "game": 29,
+      "theme": [
+        79,
+        73,
+        242
+      ],
+      "theme2": [
+        234,
+        88,
+        230
+      ],
+      "novelty": 0.0488
+    },
+    {
+      "signature": "559a66d1a5eeffbe9c28",
+      "video_sequence": 54,
+      "game": 30,
+      "theme": [
+        232,
+        68,
+        108
+      ],
+      "theme2": [
+        223,
+        239,
+        74
+      ],
+      "novelty": 0.0367
+    },
+    {
+      "signature": "0c1829c28e4578275f7d",
+      "video_sequence": 54,
+      "game": 31,
+      "theme": [
+        164,
+        16,
+        221
+      ],
+      "theme2": [
+        181,
+        43,
+        35
+      ],
+      "novelty": 0.0435
+    },
+    {
+      "signature": "3d7269c295219225acec",
+      "video_sequence": 54,
+      "game": 32,
+      "theme": [
+        59,
+        95,
+        227
+      ],
+      "theme2": [
+        176,
+        67,
+        164
+      ],
+      "novelty": 0.0437
+    },
+    {
+      "signature": "7e954dab1b09505c6507",
+      "video_sequence": 54,
+      "game": 33,
+      "theme": [
+        234,
+        198,
+        73
+      ],
+      "theme2": [
+        78,
+        190,
+        64
+      ],
+      "novelty": 0.0506
+    },
+    {
+      "signature": "3b36e51c3dbfd9a5cdfc",
+      "video_sequence": 54,
+      "game": 34,
+      "theme": [
+        209,
+        52,
+        252
+      ],
+      "theme2": [
+        176,
+        77,
+        33
+      ],
+      "novelty": 0.037
+    },
+    {
+      "signature": "de35f6bc67139a4a029b",
+      "video_sequence": 54,
+      "game": 35,
+      "theme": [
+        32,
+        170,
+        225
+      ],
+      "theme2": [
+        125,
+        66,
+        221
+      ],
+      "novelty": 0.0418
+    },
+    {
+      "signature": "e7263d25690adb011cd2",
+      "video_sequence": 54,
+      "game": 36,
+      "theme": [
+        228,
+        116,
+        36
+      ],
+      "theme2": [
+        127,
+        235,
+        28
+      ],
+      "novelty": 0.0463
+    },
+    {
+      "signature": "f1bea48ce5e0e150a093",
+      "video_sequence": 54,
+      "game": 37,
+      "theme": [
+        136,
+        29,
+        225
+      ],
+      "theme2": [
+        184,
+        35,
+        50
+      ],
+      "novelty": 0.0444
+    },
+    {
+      "signature": "6c63cd03906e7e4af1da",
+      "video_sequence": 54,
+      "game": 38,
+      "theme": [
+        52,
+        82,
+        227
+      ],
+      "theme2": [
+        177,
+        52,
+        132
+      ],
+      "novelty": 0.0365
+    },
+    {
+      "signature": "a5fb01796f2bd0dd69ac",
+      "video_sequence": 54,
+      "game": 39,
+      "theme": [
+        247,
+        26,
+        227
+      ],
+      "theme2": [
+        226,
+        86,
+        34
+      ],
+      "novelty": 0.0453
+    },
+    {
+      "signature": "09481714b2b731b38772",
+      "video_sequence": 54,
+      "game": 40,
+      "theme": [
+        164,
+        52,
+        252
+      ],
+      "theme2": [
+        230,
+        43,
+        111
+      ],
+      "novelty": 0.0393
     }
   ],
   "qd_archive": {
@@ -130031,9 +132311,9 @@
       "last_video_sequence": 30
     },
     "kanji|sandwich|confusable_substitute|S|Hs|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.82264,
-      "last_video_sequence": 33
+      "last_video_sequence": 54
     },
     "katakana|mirror_blocks|mirror_break|L|Hs|He": {
       "visits": 2,
@@ -130386,9 +132666,9 @@
       "last_video_sequence": 41
     },
     "kanji|sandwich|substitute|S|Hs|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.74692,
-      "last_video_sequence": 38
+      "last_video_sequence": 54
     },
     "digits|freeform|substitute|M|Ms|He": {
       "visits": 2,
@@ -130396,9 +132676,9 @@
       "last_video_sequence": 26
     },
     "hiragana|repeated_run|confusable_substitute|M|Ls|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.73485,
-      "last_video_sequence": 36
+      "last_video_sequence": 54
     },
     "kanji|meta|confusable_substitute|M|Ms|He": {
       "visits": 2,
@@ -130576,9 +132856,9 @@
       "last_video_sequence": 29
     },
     "kanji|alternating|substitute|S|Hs|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.73366,
-      "last_video_sequence": 28
+      "last_video_sequence": 54
     },
     "digits|sandwich|confusable_substitute|S|Hs|Le": {
       "visits": 2,
@@ -130636,9 +132916,9 @@
       "last_video_sequence": 40
     },
     "hiragana|sandwich|mirror_break|M|Ms|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.74731,
-      "last_video_sequence": 0
+      "last_video_sequence": 54
     },
     "kanji|sandwich|mirror_break|M|Hs|He": {
       "visits": 1,
@@ -130736,9 +133016,9 @@
       "last_video_sequence": 48
     },
     "hiragana|meta|adjacent_swap|L|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.75191,
-      "last_video_sequence": 0
+      "last_video_sequence": 54
     },
     "katakana|meta|mirror_break|L|Ms|He": {
       "visits": 2,
@@ -130746,9 +133026,9 @@
       "last_video_sequence": 52
     },
     "katakana|meta|span_rotate|L|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.74296,
-      "last_video_sequence": 0
+      "last_video_sequence": 54
     },
     "katakana|repeated_run|double_substitute|L|Hs|Me": {
       "visits": 1,
@@ -130926,9 +133206,9 @@
       "last_video_sequence": 44
     },
     "hiragana|mirror_blocks|double_substitute|L|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.75267,
-      "last_video_sequence": 1
+      "last_video_sequence": 54
     },
     "katakana|periodic|chain3|M|Ls|He": {
       "visits": 1,
@@ -131001,9 +133281,9 @@
       "last_video_sequence": 41
     },
     "digits|palindrome|substitute|M|Hs|Me": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.71347,
-      "last_video_sequence": 2
+      "last_video_sequence": 54
     },
     "katakana|repeated_run|confusable_substitute|M|Ls|He": {
       "visits": 2,
@@ -131351,9 +133631,9 @@
       "last_video_sequence": 52
     },
     "katakana|repeated_run|span_rotate|L|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.7302,
-      "last_video_sequence": 3
+      "last_video_sequence": 54
     },
     "hiragana|periodic|chain3|L|Ms|He": {
       "visits": 1,
@@ -131376,9 +133656,9 @@
       "last_video_sequence": 29
     },
     "hiragana|alternating|substitute|S|Hs|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.70714,
-      "last_video_sequence": 25
+      "last_video_sequence": 54
     },
     "kanji|periodic|substitute|M|Hs|He": {
       "visits": 2,
@@ -131386,9 +133666,9 @@
       "last_video_sequence": 30
     },
     "digits|freeform|substitute|M|Ls|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.70743,
-      "last_video_sequence": 36
+      "last_video_sequence": 54
     },
     "kanji|palindrome|confusable_substitute|M|Hs|He": {
       "visits": 2,
@@ -131516,9 +133796,9 @@
       "last_video_sequence": 4
     },
     "katakana|repeated_run|adjacent_swap|L|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.72848,
-      "last_video_sequence": 4
+      "last_video_sequence": 54
     },
     "katakana|repeated_run|confusable_substitute|L|Hs|Me": {
       "visits": 1,
@@ -131676,9 +133956,9 @@
       "last_video_sequence": 38
     },
     "digits|meta|mirror_break|M|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.7152,
-      "last_video_sequence": 5
+      "last_video_sequence": 54
     },
     "hiragana|palindrome|substitute|L|Hs|He": {
       "visits": 2,
@@ -131991,9 +134271,9 @@
       "last_video_sequence": 37
     },
     "hiragana|sandwich|confusable_substitute|S|Hs|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.69869,
-      "last_video_sequence": 32
+      "last_video_sequence": 54
     },
     "digits|freeform|adjacent_swap|M|Ls|He": {
       "visits": 1,
@@ -132091,9 +134371,9 @@
       "last_video_sequence": 7
     },
     "digits|mirror_blocks|span_rotate|L|Hs|Le": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.73164,
-      "last_video_sequence": 7
+      "last_video_sequence": 54
     },
     "digits|freeform|adjacent_swap|L|Ls|He": {
       "visits": 1,
@@ -132171,9 +134451,9 @@
       "last_video_sequence": 7
     },
     "hiragana|sandwich|substitute|M|Ms|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.6955,
-      "last_video_sequence": 30
+      "last_video_sequence": 54
     },
     "digits|meta|confusable_substitute|S|Hs|He": {
       "visits": 2,
@@ -132231,9 +134511,9 @@
       "last_video_sequence": 39
     },
     "kanji|freeform|confusable_substitute|M|Ms|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.6939,
-      "last_video_sequence": 8
+      "last_video_sequence": 54
     },
     "hiragana|palindrome|span_rotate|L|Hs|He": {
       "visits": 2,
@@ -132766,9 +135046,9 @@
       "last_video_sequence": 48
     },
     "digits|mirror_blocks|chain3|L|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.71482,
-      "last_video_sequence": 10
+      "last_video_sequence": 54
     },
     "kanji|repeated_run|substitute|M|Ms|Me": {
       "visits": 2,
@@ -133151,9 +135431,9 @@
       "last_video_sequence": 12
     },
     "kanji|meta|chain3|L|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.71011,
-      "last_video_sequence": 12
+      "last_video_sequence": 54
     },
     "hiragana|repeated_run|chain3|L|Ms|Me": {
       "visits": 1,
@@ -133266,9 +135546,9 @@
       "last_video_sequence": 13
     },
     "digits|palindrome|span_rotate|L|Hs|He": {
-      "visits": 2,
+      "visits": 3,
       "best_score": 0.71813,
-      "last_video_sequence": 47
+      "last_video_sequence": 54
     },
     "katakana|mirror_blocks|substitute|L|Hs|He": {
       "visits": 2,
@@ -133846,9 +136126,9 @@
       "last_video_sequence": 16
     },
     "digits|repeated_run|mirror_break|M|Ms|Me": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.70003,
-      "last_video_sequence": 16
+      "last_video_sequence": 54
     },
     "kanji|alternating|substitute|L|Hs|He": {
       "visits": 1,
@@ -133871,9 +136151,9 @@
       "last_video_sequence": 16
     },
     "hiragana|periodic|mirror_break|M|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.69255,
-      "last_video_sequence": 16
+      "last_video_sequence": 54
     },
     "kanji|sandwich|mirror_break|L|Ls|He": {
       "visits": 2,
@@ -134001,9 +136281,9 @@
       "last_video_sequence": 44
     },
     "digits|alternating|adjacent_swap|M|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.67627,
-      "last_video_sequence": 17
+      "last_video_sequence": 54
     },
     "digits|mirror_blocks|adjacent_swap|M|Hs|He": {
       "visits": 1,
@@ -134151,9 +136431,9 @@
       "last_video_sequence": 49
     },
     "hiragana|meta|substitute|L|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.70077,
-      "last_video_sequence": 17
+      "last_video_sequence": 54
     },
     "kanji|meta|substitute|L|Ls|He": {
       "visits": 1,
@@ -134506,9 +136786,9 @@
       "last_video_sequence": 42
     },
     "katakana|wave|mirror_break|L|Ms|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.70481,
-      "last_video_sequence": 19
+      "last_video_sequence": 54
     },
     "digits|periodic|mirror_break|L|Hs|He": {
       "visits": 1,
@@ -134536,9 +136816,9 @@
       "last_video_sequence": 19
     },
     "kanji|alternating|adjacent_swap|L|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.71225,
-      "last_video_sequence": 19
+      "last_video_sequence": 54
     },
     "digits|mirror_blocks|chain3|M|Hs|Le": {
       "visits": 1,
@@ -134656,9 +136936,9 @@
       "last_video_sequence": 20
     },
     "katakana|wave|span_rotate|L|Ms|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.69178,
-      "last_video_sequence": 20
+      "last_video_sequence": 54
     },
     "kanji|meta|mirror_break|M|Ms|He": {
       "visits": 1,
@@ -134916,9 +137196,9 @@
       "last_video_sequence": 21
     },
     "kanji|meta|chain2|L|Ms|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.69817,
-      "last_video_sequence": 21
+      "last_video_sequence": 54
     },
     "hiragana|wave|chain3|L|Ls|He": {
       "visits": 1,
@@ -135021,9 +137301,9 @@
       "last_video_sequence": 22
     },
     "kanji|periodic|adjacent_swap|M|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.66161,
-      "last_video_sequence": 22
+      "last_video_sequence": 54
     },
     "hiragana|repeated_run|adjacent_swap|S|Ls|He": {
       "visits": 1,
@@ -135431,9 +137711,9 @@
       "last_video_sequence": 24
     },
     "katakana|alternating|chain2|M|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.7025,
-      "last_video_sequence": 24
+      "last_video_sequence": 54
     },
     "kanji|freeform|chain2|S|Hs|He": {
       "visits": 1,
@@ -135771,9 +138051,9 @@
       "last_video_sequence": 26
     },
     "kanji|alternating|mirror_break|L|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.68717,
-      "last_video_sequence": 26
+      "last_video_sequence": 54
     },
     "hiragana|sandwich|span_rotate|L|Ls|He": {
       "visits": 1,
@@ -135796,9 +138076,9 @@
       "last_video_sequence": 44
     },
     "kanji|mirror_blocks|mirror_break|M|Hs|Le": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.68234,
-      "last_video_sequence": 26
+      "last_video_sequence": 54
     },
     "digits|alternating|confusable_substitute|L|Ls|He": {
       "visits": 2,
@@ -136036,9 +138316,9 @@
       "last_video_sequence": 27
     },
     "digits|wave|span_rotate|L|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.70236,
-      "last_video_sequence": 27
+      "last_video_sequence": 54
     },
     "digits|meta|confusable_substitute|M|Hs|Le": {
       "visits": 2,
@@ -136151,9 +138431,9 @@
       "last_video_sequence": 28
     },
     "hiragana|repeated_run|mirror_break|L|Ls|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.69021,
-      "last_video_sequence": 28
+      "last_video_sequence": 54
     },
     "katakana|meta|chain2|M|Ms|He": {
       "visits": 1,
@@ -136606,9 +138886,9 @@
       "last_video_sequence": 31
     },
     "hiragana|periodic|chain2|L|Ms|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.67944,
-      "last_video_sequence": 31
+      "last_video_sequence": 54
     },
     "hiragana|palindrome|chain2|M|Hs|Me": {
       "visits": 1,
@@ -136651,9 +138931,9 @@
       "last_video_sequence": 31
     },
     "kanji|freeform|adjacent_swap|M|Ms|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.64752,
-      "last_video_sequence": 32
+      "last_video_sequence": 54
     },
     "katakana|freeform|adjacent_swap|S|Ls|He": {
       "visits": 1,
@@ -138371,69 +140651,27 @@
       "last_video_sequence": 53
     },
     "digits|sandwich|mirror_break|L|Hs|He": {
-      "visits": 1,
+      "visits": 2,
       "best_score": 0.69874,
-      "last_video_sequence": 53
+      "last_video_sequence": 54
     },
     "katakana|freeform|chain3|L|Ms|He": {
       "visits": 1,
       "best_score": 0.67456,
       "last_video_sequence": 53
+    },
+    "digits|repeated_run|span_rotate|S|Ls|He": {
+      "visits": 1,
+      "best_score": 0.63824,
+      "last_video_sequence": 54
+    },
+    "hiragana|meta|chain3|M|Hs|Le": {
+      "visits": 1,
+      "best_score": 0.65614,
+      "last_video_sequence": 54
     }
   },
   "recent_video_profiles": [
-    {
-      "video_sequence": 4,
-      "scripts": {
-        "digits": 11,
-        "hiragana": 10,
-        "kanji": 7,
-        "katakana": 12
-      },
-      "grammars": {
-        "mirror_blocks": 8,
-        "alternating": 5,
-        "periodic": 4,
-        "freeform": 4,
-        "palindrome": 3,
-        "meta": 6,
-        "repeated_run": 6,
-        "sandwich": 3,
-        "wave": 1
-      },
-      "mutations": {
-        "confusable_substitute": 8,
-        "substitute": 9,
-        "adjacent_swap": 5,
-        "mirror_break": 4,
-        "span_rotate": 2,
-        "chain2": 6,
-        "double_substitute": 3,
-        "chain3": 3
-      },
-      "lengths": {
-        "4": 10,
-        "3": 5,
-        "5": 6,
-        "7": 7,
-        "6": 6,
-        "8": 6
-      },
-      "avg_novelty": 0.3345,
-      "avg_quality": 0.9149,
-      "audience_model": {
-        "model": "audience-learning-v6",
-        "version": 6,
-        "learned_videos": 0,
-        "tracked_videos": 5,
-        "feature_count": 0,
-        "thumbnail_feature_count": 0,
-        "global_reward_mean": 0.5,
-        "global_evidence": 0.0
-      },
-      "audience_weight": 0.04,
-      "exploration_weight": 0.075
-    },
     {
       "video_sequence": 5,
       "scripts": {
@@ -141006,16 +143244,68 @@
       },
       "audience_weight": 0.04,
       "exploration_weight": 0.075
+    },
+    {
+      "video_sequence": 54,
+      "scripts": {
+        "hiragana": 12,
+        "kanji": 11,
+        "digits": 11,
+        "katakana": 6
+      },
+      "grammars": {
+        "sandwich": 6,
+        "freeform": 3,
+        "repeated_run": 6,
+        "alternating": 6,
+        "palindrome": 2,
+        "periodic": 3,
+        "wave": 3,
+        "meta": 7,
+        "mirror_blocks": 4
+      },
+      "mutations": {
+        "confusable_substitute": 4,
+        "substitute": 7,
+        "adjacent_swap": 6,
+        "mirror_break": 9,
+        "span_rotate": 7,
+        "chain2": 3,
+        "chain3": 3,
+        "double_substitute": 1
+      },
+      "lengths": {
+        "3": 6,
+        "4": 9,
+        "5": 6,
+        "7": 8,
+        "6": 8,
+        "8": 3
+      },
+      "avg_novelty": 0.2382,
+      "avg_quality": 0.9066,
+      "audience_model": {
+        "model": "audience-learning-v6",
+        "version": 6,
+        "learned_videos": 0,
+        "tracked_videos": 54,
+        "feature_count": 0,
+        "thumbnail_feature_count": 0,
+        "global_reward_mean": 0.5,
+        "global_evidence": 0.0
+      },
+      "audience_weight": 0.04,
+      "exploration_weight": 0.075
     }
   ],
-  "last_video_sequence": 53,
-  "total_unique_games": 2280,
-  "qd_cells_visited": 1682,
+  "last_video_sequence": 54,
+  "total_unique_games": 2320,
+  "qd_cells_visited": 1684,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 53,
+    "tracked_videos": 54,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
