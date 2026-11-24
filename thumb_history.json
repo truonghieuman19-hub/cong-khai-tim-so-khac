@@ -55,6 +55,7 @@
     "df6a93f7f5155a7ba0fd96da",
     "e0762a9736cca2ba1bc09b1f",
     "e1ae5355d196b8924420b840",
+    "e3090597d623bdd90eb65123",
     "ea89ad6feab94283382b9c1c",
     "f024c388b714f6c22cee1991",
     "f25877d73670917b918bfe54",
@@ -77,6 +78,7 @@
     "2fb352302408cba16bf0",
     "33b5ec1163b7a6ae80ae",
     "3550640325be31334bac",
+    "399307ca5e4e70433712",
     "3c0db223bdd7f66d0a73",
     "419cf80c87b91c6cb3e7",
     "44b1919ebc8dd78f634d",
@@ -949,6 +951,20 @@
       "audience_exploration": 1.0,
       "audience_evidence": 0.0,
       "v6_score": 0.35085
+    },
+    {
+      "signature": "e3090597d623bdd90eb65123",
+      "video_sequence": 56,
+      "puzzle_signature": "f1a8f14fce9a0ba65f9b7dad",
+      "grammar": "alternating",
+      "mutation": "confusable_substitute+confusable_substitute",
+      "layout": 5,
+      "headline": 2,
+      "score": 0.28319,
+      "audience_predicted": 0.5,
+      "audience_exploration": 1.0,
+      "audience_evidence": 0.0,
+      "v6_score": 0.34718
     }
   ],
   "used_palettes": [
@@ -2131,15 +2147,29 @@
         214
       ],
       "novelty": 0.06524
+    },
+    {
+      "signature": "399307ca5e4e70433712",
+      "video_sequence": 56,
+      "bg1": [
+        42,
+        192,
+        228
+      ],
+      "bg2": [
+        98,
+        27,
+        203
+      ],
+      "accent": [
+        243,
+        56,
+        13
+      ],
+      "novelty": 0.05896
     }
   ],
   "recent_profiles": [
-    {
-      "video_sequence": 6,
-      "layout": 3,
-      "headline": 0,
-      "palette_signature": "3550640325be31334bac"
-    },
     {
       "video_sequence": 7,
       "layout": 4,
@@ -2433,15 +2463,21 @@
       "layout": 5,
       "headline": 0,
       "palette_signature": "cd3fb02d1ecfa15fdc98"
+    },
+    {
+      "video_sequence": 56,
+      "layout": 5,
+      "headline": 2,
+      "palette_signature": "399307ca5e4e70433712"
     }
   ],
-  "last_video_sequence": 55,
-  "total_unique_thumbnails": 59,
+  "last_video_sequence": 56,
+  "total_unique_thumbnails": 60,
   "audience_model": {
     "model": "audience-learning-v6",
     "version": 6,
     "learned_videos": 0,
-    "tracked_videos": 55,
+    "tracked_videos": 56,
     "feature_count": 0,
     "thumbnail_feature_count": 0,
     "global_reward_mean": 0.5,
